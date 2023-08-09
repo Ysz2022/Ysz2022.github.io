@@ -18,6 +18,75 @@ Previously, I received my B.Eng degree from the [Dalian University of Technology
 3. Low-Level Vision (e.g., Image Enhancement)
 
 # 📝 Selected Publications
+<style type="text/css">
+    /* Color scheme stolen from Sergey Karayev */
+    a {
+    color: #1772d0;
+    text-decoration:none !important;
+    }
+    a:focus, a:hover {
+    color: #f09228;
+    text-decoration:none !important;
+    }
+    table,td,th,tr{
+    	border:none !important;
+    }
+    body,td,th,tr,p,a {
+    font-family: 'Lato', Verdana, Helvetica, sans-serif;
+    font-size: 14px
+    }
+    strong {
+    font-family: 'Lato', Verdana, Helvetica, sans-serif;
+    font-size: 14px;
+    }
+    heading {
+    font-family: 'Lato', Verdana, Helvetica, sans-serif;
+    font-size: 22px;
+    }
+    papertitle {
+    font-family: 'Lato', Verdana, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 700
+    }
+    papertitle_just {
+    font-family: 'Lato', Verdana, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    text-align: justify
+    }
+    name {
+    font-family: 'Lato', Verdana, Helvetica, sans-serif;
+    font-size: 32px;
+    }
+    .one
+    {
+    width: 160px;
+    height: 160px;
+    position: relative;
+    }
+    .two
+    {
+    width: 160px;
+    height: 160px;
+    position: absolute;
+    transition: opacity .2s ease-in-out;
+    -moz-transition: opacity .2s ease-in-out;
+    -webkit-transition: opacity .2s ease-in-out;
+    }
+    .fade {
+     transition: opacity .2s ease-in-out;
+     -moz-transition: opacity .2s ease-in-out;
+     -webkit-transition: opacity .2s ease-in-out;
+    }
+    span.highlight {
+        background-color: #ffffd0;
+    }
+</style>
+<!-- ################################  CONTENT START  ##################################################-->
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="10">
+<tbody>
+<!-- ############################ Put your publications below this! ####################################-->
+
 - [**Implicit Neural Representation for Cooperative Low-light Image Enhancement**](https://arxiv.org/pdf/2303.11722) \
    <strong>Shuzhou Yang</strong>, Moxuan Ding, Yanmin Wu, Zihan Li, Jian Zhang*. \
 <em>International Conference on Computer Vision (ICCV)</em>, 2023, Paris, France \
@@ -28,6 +97,9 @@ Previously, I received my B.Eng degree from the [Dalian University of Technology
 <em>Computer Vision and Pattern Recognition Workshop (CVPRW)</em>, 2023, Vancouver, Canada \
 <a href="https://arxiv.org/abs/2203.05189">arXiv</a>  |  <a href="https://github.com/wyhuai/NeRFocus">code</a>
 
+
+<!-- ############################ Put your publications above this! ####################################-->
+</tbody></table>
 
 # 🏫 Educations
 - Sep'2022-Jul'2027: Ph.D. (Computer Science), PKU, China
