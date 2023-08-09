@@ -17,3 +17,8 @@ Previously, I received my B.Eng degree from the [Dalian University of Technology
 2. Low-Level Vision (e.g., Image Enhancement)
 
 # 📝 Selected Publications
+
+
+# 🏫 Educations
+- Sep'2022-Jul'2027: Ph.D. (Computer Science), PKU, China
+- Sep'2018-Jul'2022: B.Eng (Software Engineering), DLUT, China
