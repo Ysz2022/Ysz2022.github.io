@@ -88,22 +88,7 @@ Previously, I received my B.Eng degree from the [Dalian University of Technology
 <!-- ############################ Put your publications below this! ####################################-->
 
 <!-- ###################################################################################################-->
-<td width="20%">
-<div class="one">
-<div class="two" id = 'iccv23_reflectance_image'><img src='./files/iccv23_after.png'></div>
-<img src='./files/iccv23_before.png'>
-</div>
-<script type="text/javascript">
-function iccv23_reflectance_start() {
-document.getElementById('iccv23_reflectance_image').style.opacity = "1";
-}
-function iccv23_reflectance_stop() {
-document.getElementById('iccv23_reflectance_image').style.opacity = "0";
-}
-iccv23_reflectance_stop()
-</script>
-</td>
-<td valign="top" width="80%">
+<td width="100%">
   <a href="https://arxiv.org/pdf/2303.11722">
     <papertitle_just>Implicit Neural Representation for Cooperative Low-light Image Enhancement</papertitle_just>     
   </a>
