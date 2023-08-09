@@ -15,7 +15,7 @@ Previously, I received my B.Eng degree from the [Dalian University of Technology
 # 📜 Research Area
 1. Novel View Synthesis (e.g., NeRF)
 2. Generative Model (e.g., GAN, Diffusion)
-3. Low-Level Vision (e.g., Image Enhancement)
+3. Low-level Vision (e.g., Image Enhancement)
 
 # 📝 Selected Publications
 <style type="text/css">
@@ -83,10 +83,11 @@ Previously, I received my B.Eng degree from the [Dalian University of Technology
     }
 </style>
 <!-- ################################  CONTENT START  ##################################################-->
+
+## Low-level Vision
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="10">
 <tbody>
 <!-- ############################ Put your publications below this! ####################################-->
-
 <!-- ###################################################################################################-->
 <td width="100%">
   <a href="https://arxiv.org/pdf/2303.11722">
@@ -102,6 +103,9 @@ Previously, I received my B.Eng degree from the [Dalian University of Technology
 </td>
 <!-- ###################################################################################################-->
 </tbody></table>
+
+
+## Novel View Synthesis
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="10">
 <tbody>
 <!-- ###################################################################################################-->
