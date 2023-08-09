@@ -87,17 +87,6 @@ Previously, I received my B.Eng degree from the [Dalian University of Technology
 <tbody>
 <!-- ############################ Put your publications below this! ####################################-->
 
-- [**Implicit Neural Representation for Cooperative Low-light Image Enhancement**](https://arxiv.org/pdf/2303.11722) \
-   <strong>Shuzhou Yang</strong>, Moxuan Ding, Yanmin Wu, Zihan Li, Jian Zhang*. \
-<em>International Conference on Computer Vision (ICCV)</em>, 2023, Paris, France \
-<a href="https://arxiv.org/pdf/2303.11722">arXiv</a>  |  <a href="https://github.com/Ysz2022/NeRCo">code</a>
-
-- [**NeRFocus: Neural Radiance Field for 3D Synthetic Defocus**](https://arxiv.org/abs/2203.05189) \
-   Yinhuai Wang#, <strong>Shuzhou Yang#</strong>, Yujie Hu, Xinhua Cheng, Jian Zhang*. (Equal-first author)\
-<em>Computer Vision and Pattern Recognition Workshop (CVPRW)</em>, 2023, Vancouver, Canada \
-<a href="https://arxiv.org/abs/2203.05189">arXiv</a>  |  <a href="https://github.com/wyhuai/NeRFocus">code</a>
-
-
 <!-- ###################################################################################################-->
 <td width="20%">
 <div class="one">
