@@ -17,9 +17,9 @@ Previously, I received my B.Eng degree from the [Dalian University of Technology
 2. Low-Level Vision (e.g., Image Enhancement)
 
 # 📝 Selected Publications
-1. [Implicit Neural Representation for Cooperative Low-light Image Enhancement](https://arxiv.org/pdf/2303.11722.pdf) \
+- [**Implicit Neural Representation for Cooperative Low-light Image Enhancement**](https://arxiv.org/pdf/2303.11722.pdf) \
    <strong>Shuzhou Yang</strong>, Moxuan Ding, Yanmin Wu, Zihan Li, Jian Zhang*. \
-<em>International Conference on Computer Vision (ICCV)</em>, 2023, Paris, France
+<em>International Conference on Computer Vision (ICCV)</em>, 2023, Paris, France \
 <a href="https://arxiv.org/pdf/2303.11722">arXiv</a>  |  <a href="https://github.com/Ysz2022/NeRCo">code</a>
 
 # 🏫 Educations
