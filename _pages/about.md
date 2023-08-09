@@ -22,10 +22,6 @@ Previously, I received my B.Eng degree from the [Dalian University of Technology
 <em>International Conference on Computer Vision (ICCV)</em>, 2023, Paris, France \
 <a href="https://arxiv.org/pdf/2303.11722">arXiv</a>  |  <a href="https://github.com/Ysz2022/NeRCo">code</a>
 
-- [**Twin Adversarial Contrastive Learning for Underwater Image Enhancement and Beyond**](https://ieeexplore.ieee.org/abstract/document/9832540) \
-   Risheng Liu*, Zhiying Jiang, <strong>Shuzhou Yang</strong>, Xin Fan. \
-<em>IEEE Transactions on Image Processing (TIP)</em>, 2022 \
-<a href="https://ieeexplore.ieee.org/abstract/document/9832540">arXiv</a>  |  <a href="https://github.com/Jzy2017/TACL">code</a>
 
 # 🏫 Educations
 - Sep'2022-Jul'2027: Ph.D. (Computer Science), PKU, China
