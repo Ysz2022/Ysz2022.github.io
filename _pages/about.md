@@ -98,6 +98,37 @@ Previously, I received my B.Eng degree from the [Dalian University of Technology
 <a href="https://arxiv.org/abs/2203.05189">arXiv</a>  |  <a href="https://github.com/wyhuai/NeRFocus">code</a>
 
 
+<!-- ###################################################################################################-->
+<td width="20%">
+<div class="one">
+<div class="two" id = 'iccv23_reflectance_image'><img src='./files/iccv23_after.png'></div>
+<img src='./files/iccv23_before.png'>
+</div>
+<script type="text/javascript">
+function iccv23_reflectance_start() {
+document.getElementById('iccv23_reflectance_image').style.opacity = "1";
+}
+function iccv23_reflectance_stop() {
+document.getElementById('iccv23_reflectance_image').style.opacity = "0";
+}
+iccv23_reflectance_stop()
+</script>
+</td>
+<td valign="top" width="80%">
+  <a href="https://arxiv.org/pdf/2303.11722">
+    <papertitle_just>Implicit Neural Representation for Cooperative Low-light Image Enhancement</papertitle_just>     
+  </a>
+  <br>
+  <strong>Shuzhou Yang</strong>, Moxuan Ding, Yanmin Wu, Zihan Li, Jian Zhang*.
+  <br>
+<em>International Conference on Computer Vision (ICCV)</em>, 2023, Paris, France <br>
+<a href="https://arxiv.org/pdf/2303.11722">arXiv</a>
+|
+<a href="https://github.com/Ysz2022/NeRCo">code</a>
+</td>
+<!-- ###################################################################################################-->
+
+
 <!-- ############################ Put your publications above this! ####################################-->
 </tbody></table>
 
