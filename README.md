@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-Personal Web: https://Ysz2022.github.io/
+Personal Web: https://ysz2022.github.io/
