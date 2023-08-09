@@ -88,6 +88,7 @@ Previously, I received my B.Eng degree from the [Dalian University of Technology
 <!-- ############################ Put your publications below this! ####################################-->
 
 <!-- ###################################################################################################-->
+<!-- Paper I defog, ICCV'23 -->
 <td width="100%">
   <a href="https://arxiv.org/pdf/2303.11722">
     <papertitle_just>Implicit Neural Representation for Cooperative Low-light Image Enhancement</papertitle_just>     
@@ -100,9 +101,11 @@ Previously, I received my B.Eng degree from the [Dalian University of Technology
 |
 <a href="https://github.com/Ysz2022/NeRCo">code</a>
 </td>
+<!-- Paper I defog, ICCV'23 -->
 <!-- ###################################################################################################-->
 
 <!-- ###################################################################################################-->
+<!-- Paper II defog, CVPRW'23 -->
 <td width="100%">
   <a href="https://arxiv.org/abs/2203.05189">
     <papertitle_just>NeRFocus: Neural Radiance Field for 3D Synthetic Defocus</papertitle_just>     
@@ -115,6 +118,7 @@ Previously, I received my B.Eng degree from the [Dalian University of Technology
 |
 <a href="https://github.com/wyhuai/NeRFocus">code</a>
 </td>
+<!-- Paper II defog, CVPRW'23 -->
 <!-- ###################################################################################################-->
 
 
