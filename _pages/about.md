@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 # 👋 Hi!
-My name is Shuzhou Yang, and I am a 2-year Ph.D. student at the [School of Electronic and Computer Engineering](https://www.ece.pku.edu.cn/), Peking University, supervised by [Prof. Jian Zhang](https://jianzhang.tech/).
+My name is Shuzhou Yang, and I am a 2nd-year Ph.D. student in Computer Science, [Peking University](https://www.pku.edu.cn/), supervised by [Prof. Jian Zhang](https://jianzhang.tech/).
 
 Previously, I received my B.Eng degree from the [Dalian University of Technology](https://en.dlut.edu.cn/) in 2022. My primary research interests include computer vision and deep learning, mainly focusing on Novel View Synthesis and Image Enhancement.
 
@@ -96,7 +96,7 @@ Previously, I received my B.Eng degree from the [Dalian University of Technology
   <br>
   <strong>Shuzhou Yang</strong>, Moxuan Ding, Yanmin Wu, Zihan Li, Jian Zhang*.
   <br>
-<em>International Conference on Computer Vision (ICCV)</em>, 2023, Paris, France <br>
+<em>International Conference on Computer Vision (ICCV)</em>, 2023 <br>
 <a href="https://arxiv.org/pdf/2303.11722">arXiv</a>
 |
 <a href="https://github.com/Ysz2022/NeRCo">code</a>
@@ -116,7 +116,7 @@ Previously, I received my B.Eng degree from the [Dalian University of Technology
   <br>
   Yinhuai Wang#, <strong>Shuzhou Yang#</strong>, Yujie Hu, Xinhua Cheng, Jian Zhang*. (Equal-first author)
   <br>
-<em>Computer Vision and Pattern Recognition Workshop (CVPRW)</em>, 2023, Vancouver, Canada <br>
+<em>Computer Vision and Pattern Recognition Workshop (CVPRW)</em>, 2023 <br>
 <a href="https://arxiv.org/abs/2203.05189">arXiv</a>
 |
 <a href="https://github.com/wyhuai/NeRFocus">code</a>
