@@ -102,6 +102,21 @@ Previously, I received my B.Eng degree from the [Dalian University of Technology
 </td>
 <!-- ###################################################################################################-->
 
+<!-- ###################################################################################################-->
+<td width="100%">
+  <a href="https://arxiv.org/abs/2203.05189">
+    <papertitle_just>NeRFocus: Neural Radiance Field for 3D Synthetic Defocus</papertitle_just>     
+  </a>
+  <br>
+  Yinhuai Wang#, <strong>Shuzhou Yang#</strong>, Yujie Hu, Xinhua Cheng, Jian Zhang*. (Equal-first author)
+  <br>
+<em>Computer Vision and Pattern Recognition Workshop (CVPRW)</em>, 2023, Vancouver, Canada <br>
+<a href="https://arxiv.org/abs/2203.05189">arXiv</a>
+|
+<a href="https://github.com/wyhuai/NeRFocus">code</a>
+</td>
+<!-- ###################################################################################################-->
+
 
 <!-- ############################ Put your publications above this! ####################################-->
 </tbody></table>
