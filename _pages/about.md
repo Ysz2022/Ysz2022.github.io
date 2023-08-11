@@ -83,6 +83,25 @@ Previously, I received my B.Eng degree from the [Dalian University of Technology
     }
 </style>
 <!-- ################################  CONTENT START  ##################################################-->
+## Novel View Synthesis
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="10">
+<tbody>
+<!-- ###################################################################################################-->
+<td width="100%">
+  <a href="https://arxiv.org/abs/2203.05189">
+    <papertitle_just>NeRFocus: Neural Radiance Field for 3D Synthetic Defocus</papertitle_just>     
+  </a>
+  <br>
+  Yinhuai Wang#, <strong>Shuzhou Yang#</strong>, Yujie Hu, Xinhua Cheng, Jian Zhang*. (Equal-first author)
+  <br>
+<em>Computer Vision and Pattern Recognition Workshop (CVPRW)</em>, 2023 <br>
+<a href="https://arxiv.org/abs/2203.05189">arXiv</a>
+|
+<a href="https://github.com/wyhuai/NeRFocus">code</a>
+</td>
+<!-- ###################################################################################################-->
+</tbody></table>
+
 
 ## Low-level Vision
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="10">
@@ -104,25 +123,6 @@ Previously, I received my B.Eng degree from the [Dalian University of Technology
 <!-- ###################################################################################################-->
 </tbody></table>
 
-
-## Novel View Synthesis
-<table width="100%" align="center" border="0" cellspacing="0" cellpadding="10">
-<tbody>
-<!-- ###################################################################################################-->
-<td width="100%">
-  <a href="https://arxiv.org/abs/2203.05189">
-    <papertitle_just>NeRFocus: Neural Radiance Field for 3D Synthetic Defocus</papertitle_just>     
-  </a>
-  <br>
-  Yinhuai Wang#, <strong>Shuzhou Yang#</strong>, Yujie Hu, Xinhua Cheng, Jian Zhang*. (Equal-first author)
-  <br>
-<em>Computer Vision and Pattern Recognition Workshop (CVPRW)</em>, 2023 <br>
-<a href="https://arxiv.org/abs/2203.05189">arXiv</a>
-|
-<a href="https://github.com/wyhuai/NeRFocus">code</a>
-</td>
-<!-- ###################################################################################################-->
-</tbody></table>
 
 # 🏫 Educations
 - Sep'2022-Jul'2027: Ph.D. (Computer Science), PKU, China
