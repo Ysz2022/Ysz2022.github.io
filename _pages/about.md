@@ -87,7 +87,23 @@ Previously, I received my B.Eng degree from the [Dalian University of Technology
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="10">
 <tbody>
 <!-- ###################################################################################################-->
-<td width="100%">
+<tr onmouseout="nerfocus_nightenhance_stop()" onmouseover="nerfocus_nightenhance_start()" >
+<td width="20%">
+<div class="one">
+<div class="two" id = 'nerfocus_nightenhance_image'><img src='./files/nerfocus_after.jpg'></div>
+<img src='./files/nerfocus_before.jpg'>
+</div>
+<script type="text/javascript">
+function nerfocus_nightenhance_start() {
+document.getElementById('nerfocus_nightenhance_image').style.opacity = "1";
+}
+function nerfocus_nightenhance_stop() {
+document.getElementById('nerfocus_nightenhance_image').style.opacity = "0";
+}
+nerfocus_nightenhance_stop()
+</script>
+</td>
+<td valign="top" width="80%">
   <a href="https://arxiv.org/abs/2203.05189">
     <papertitle_just>NeRFocus: Neural Radiance Field for 3D Synthetic Defocus</papertitle_just>     
   </a>
@@ -98,7 +114,10 @@ Previously, I received my B.Eng degree from the [Dalian University of Technology
 <a href="https://arxiv.org/abs/2203.05189">arXiv</a>
 |
 <a href="https://github.com/wyhuai/NeRFocus">code</a>
+<p></p>
+<p>Realizing defocus effect in 3D scenarios.</p>
 </td>
+</tr>
 <!-- ###################################################################################################-->
 </tbody></table>
 
