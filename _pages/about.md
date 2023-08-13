@@ -83,45 +83,8 @@ Previously, I received my B.Eng degree from the [Dalian University of Technology
     }
 </style>
 <!-- ################################  CONTENT START  ##################################################-->
-## Novel View Synthesis
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="10">
 <tbody>
-<!-- ###################################################################################################-->
-<tr onmouseout="nerfocus_nightenhance_stop()" onmouseover="nerfocus_nightenhance_start()" >
-<td width="15%">
-<div class="one">
-<div class="two" id = 'nerfocus_nightenhance_image'><img src='./files/nerfocus_after.jpg'></div>
-<img src='./files/nerfocus_before.jpg'>
-</div>
-<script type="text/javascript">
-function nerfocus_nightenhance_start() {
-document.getElementById('nerfocus_nightenhance_image').style.opacity = "1";
-}
-function nerfocus_nightenhance_stop() {
-document.getElementById('nerfocus_nightenhance_image').style.opacity = "0";
-}
-nerfocus_nightenhance_stop()
-</script>
-</td>
-<td valign="top" width="85%">
-  <a href="https://arxiv.org/abs/2203.05189">
-    <papertitle_just>NeRFocus: Neural Radiance Field for 3D Synthetic Defocus</papertitle_just>     
-  </a>
-  <br>
-  Yinhuai Wang#, <strong>Shuzhou Yang#</strong>, Yujie Hu, Xinhua Cheng, Jian Zhang*. (Equal-first author)
-  <br>
-<em>Computer Vision and Pattern Recognition Workshop (CVPRW)</em>, 2023 <br>
-<a href="https://arxiv.org/abs/2203.05189">arXiv</a>
-|
-<a href="https://github.com/wyhuai/NeRFocus">code</a>
-<p></p>
-<p>Realizing defocus effect in 3D scenarios.</p>
-</td>
-</tr>
-<!-- ###################################################################################################-->
-
-
-## Low-level Vision
 <!-- ###################################################################################################-->
 <tr onmouseout="nerco_nightenhance_stop()" onmouseover="nerco_nightenhance_start()" >
 <td width="15%">
@@ -152,6 +115,40 @@ nerco_nightenhance_stop()
 <a href="https://github.com/Ysz2022/NeRCo">code</a>
 <p></p>
 <p>Normalizing images by neural representation and enhancing it based on CLIP prior.</p>
+</td>
+</tr>
+<!-- ###################################################################################################-->
+
+<!-- ###################################################################################################-->
+<tr onmouseout="nerfocus_nightenhance_stop()" onmouseover="nerfocus_nightenhance_start()" >
+<td width="15%">
+<div class="one">
+<div class="two" id = 'nerfocus_nightenhance_image'><img src='./files/nerfocus_after.jpg'></div>
+<img src='./files/nerfocus_before.jpg'>
+</div>
+<script type="text/javascript">
+function nerfocus_nightenhance_start() {
+document.getElementById('nerfocus_nightenhance_image').style.opacity = "1";
+}
+function nerfocus_nightenhance_stop() {
+document.getElementById('nerfocus_nightenhance_image').style.opacity = "0";
+}
+nerfocus_nightenhance_stop()
+</script>
+</td>
+<td valign="top" width="85%">
+  <a href="https://arxiv.org/abs/2203.05189">
+    <papertitle_just>NeRFocus: Neural Radiance Field for 3D Synthetic Defocus</papertitle_just>     
+  </a>
+  <br>
+  Yinhuai Wang#, <strong>Shuzhou Yang#</strong>, Yujie Hu, Xinhua Cheng, Jian Zhang*. (Equal-first author)
+  <br>
+<em>Computer Vision and Pattern Recognition Workshop (CVPRW)</em>, 2023 <br>
+<a href="https://arxiv.org/abs/2203.05189">arXiv</a>
+|
+<a href="https://github.com/wyhuai/NeRFocus">code</a>
+<p></p>
+<p>Realizing defocus effect in 3D scenarios.</p>
 </td>
 </tr>
 <!-- ###################################################################################################-->
