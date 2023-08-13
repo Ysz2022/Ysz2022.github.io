@@ -90,8 +90,8 @@ Previously, I received my B.Eng degree from the [Dalian University of Technology
 <tr onmouseout="nerfocus_nightenhance_stop()" onmouseover="nerfocus_nightenhance_start()" >
 <td width="20%">
 <div class="one">
-<div class="two" id = 'nerfocus_nightenhance_image'><img src='./files/nerfocus_after.png'></div>
-<img src='./files/nerfocus_before.png'>
+<div class="two" id = 'nerfocus_nightenhance_image'><img src='./files/nerfocus_after.jpg'></div>
+<img src='./files/nerfocus_before.jpg'>
 </div>
 <script type="text/javascript">
 function nerfocus_nightenhance_start() {
