@@ -114,7 +114,7 @@ nerco_stop()
 |
 <a href="https://github.com/Ysz2022/NeRCo">code</a>
 <p></p>
-<p>Normalizing images by neural representation and enhancing them based on CLIP prior.</p>
+<p>Normalize images by neural representation and enhance them based on CLIP prior.</p>
 </td>
 </tr>
 <!-- ###################################################################################################-->
@@ -148,7 +148,7 @@ nerfocus_stop()
 |
 <a href="https://github.com/wyhuai/NeRFocus">code</a>
 <p></p>
-<p>Realizing defocusing effect in 3D scenarios.</p>
+<p>Realize defocusing effect in 3D scenarios.</p>
 </td>
 </tr>
 <!-- ###################################################################################################-->
