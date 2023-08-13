@@ -119,12 +119,9 @@ nerfocus_nightenhance_stop()
 </td>
 </tr>
 <!-- ###################################################################################################-->
-</tbody></table>
 
 
 ## Low-level Vision
-<table width="100%" align="center" border="0" cellspacing="0" cellpadding="10">
-<tbody>
 <!-- ###################################################################################################-->
 <tr onmouseout="nerco_nightenhance_stop()" onmouseover="nerco_nightenhance_start()" >
 <td width="20%">
