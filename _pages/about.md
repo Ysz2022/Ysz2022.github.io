@@ -123,8 +123,8 @@ nerco_stop()
 <tr onmouseout="nerfocus_stop()" onmouseover="nerfocus_start()" >
 <td width="15%">
 <div class="one">
-<div class="two" id = 'nerfocus_image'><img src='./files/nerfocus_after.jpg'></div>
-<img src='./files/nerfocus_before.jpg'>
+<div class="two" id = 'nerfocus_image'><img src='./files/nerfocus_after.png'></div>
+<img src='./files/nerfocus_before.png'>
 </div>
 <script type="text/javascript">
 function nerfocus_start() {
