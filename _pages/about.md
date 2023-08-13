@@ -87,7 +87,7 @@ Previously, I received my B.Eng degree from the [Dalian University of Technology
 <tbody>
 <!-- ###################################################################################################-->
 <tr onmouseout="nerco_stop()" onmouseover="nerco_start()" >
-<td width="15%">
+<td width="20%">
 <div class="one">
 <div class="two" id = 'nerco_image'><img src='./files/nerco_after.png'></div>
 <img src='./files/nerco_before.png'>
@@ -102,7 +102,7 @@ document.getElementById('nerco_image').style.opacity = "0";
 nerco_stop()
 </script>
 </td>
-<td valign="top" width="85%">
+<td valign="top" width="80%">
   <a href="https://arxiv.org/pdf/2303.11722">
     <papertitle_just>Implicit Neural Representation for Cooperative Low-light Image Enhancement</papertitle_just>     
   </a>
@@ -113,6 +113,7 @@ nerco_stop()
 <a href="https://arxiv.org/pdf/2303.11722">arXiv</a>
 |
 <a href="https://github.com/Ysz2022/NeRCo">code</a>
+<p></p>
 <p>Normalizing images by neural representation and enhancing them based on CLIP prior.</p>
 </td>
 </tr>
@@ -120,7 +121,7 @@ nerco_stop()
 
 <!-- ###################################################################################################-->
 <tr onmouseout="nerfocus_stop()" onmouseover="nerfocus_start()" >
-<td width="15%">
+<td width="20%">
 <div class="one">
 <div class="two" id = 'nerfocus_image'><img src='./files/nerfocus_after.png'></div>
 <img src='./files/nerfocus_before.png'>
@@ -135,7 +136,7 @@ document.getElementById('nerfocus_image').style.opacity = "0";
 nerfocus_stop()
 </script>
 </td>
-<td valign="top" width="85%">
+<td valign="top" width="80%">
   <a href="https://arxiv.org/abs/2203.05189">
     <papertitle_just>NeRFocus: Neural Radiance Field for 3D Synthetic Defocus</papertitle_just>     
   </a>
@@ -146,6 +147,7 @@ nerfocus_stop()
 <a href="https://arxiv.org/abs/2203.05189">arXiv</a>
 |
 <a href="https://github.com/wyhuai/NeRFocus">code</a>
+<p></p>
 <p>Realizing defocusing effect in 3D scenarios.</p>
 </td>
 </tr>
