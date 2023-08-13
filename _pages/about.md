@@ -88,7 +88,7 @@ Previously, I received my B.Eng degree from the [Dalian University of Technology
 <tbody>
 <!-- ###################################################################################################-->
 <tr onmouseout="nerfocus_nightenhance_stop()" onmouseover="nerfocus_nightenhance_start()" >
-<td width="20%">
+<td width="25%">
 <div class="one">
 <div class="two" id = 'nerfocus_nightenhance_image'><img src='./files/nerfocus_after.jpg'></div>
 <img src='./files/nerfocus_before.jpg'>
@@ -103,7 +103,7 @@ document.getElementById('nerfocus_nightenhance_image').style.opacity = "0";
 nerfocus_nightenhance_stop()
 </script>
 </td>
-<td valign="top" width="80%">
+<td valign="top" width="75%">
   <a href="https://arxiv.org/abs/2203.05189">
     <papertitle_just>NeRFocus: Neural Radiance Field for 3D Synthetic Defocus</papertitle_just>     
   </a>
@@ -124,7 +124,7 @@ nerfocus_nightenhance_stop()
 ## Low-level Vision
 <!-- ###################################################################################################-->
 <tr onmouseout="nerco_nightenhance_stop()" onmouseover="nerco_nightenhance_start()" >
-<td width="20%">
+<td width="25%">
 <div class="one">
 <div class="two" id = 'nerco_nightenhance_image'><img src='./files/nerco_after.png'></div>
 <img src='./files/nerco_before.png'>
@@ -139,7 +139,7 @@ document.getElementById('nerco_nightenhance_image').style.opacity = "0";
 nerco_nightenhance_stop()
 </script>
 </td>
-<td valign="top" width="80%">
+<td valign="top" width="75%">
   <a href="https://arxiv.org/pdf/2303.11722">
     <papertitle_just>Implicit Neural Representation for Cooperative Low-light Image Enhancement</papertitle_just>     
   </a>
