@@ -129,8 +129,8 @@ nerfocus_nightenhance_stop()
 <tr onmouseout="nerco_nightenhance_stop()" onmouseover="nerco_nightenhance_start()" >
 <td width="20%">
 <div class="one">
-<div class="two" id = 'nerco_nightenhance_image'><img src='./files/nerco_after.pdf'></div>
-<img src='./files/nerco_before.pdf'>
+<div class="two" id = 'nerco_nightenhance_image'><img src='./files/nerco_after.png'></div>
+<img src='./files/nerco_before.png'>
 </div>
 <script type="text/javascript">
 function nerco_nightenhance_start() {
