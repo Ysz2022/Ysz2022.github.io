@@ -86,20 +86,20 @@ Previously, I received my B.Eng degree from the [Dalian University of Technology
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="10">
 <tbody>
 <!-- ###################################################################################################-->
-<tr onmouseout="nerco_nightenhance_stop()" onmouseover="nerco_nightenhance_start()" >
+<tr onmouseout="nerco_stop()" onmouseover="nerco_start()" >
 <td width="15%">
 <div class="one">
-<div class="two" id = 'nerco_nightenhance_image'><img src='./files/nerco_after.png'></div>
+<div class="two" id = 'nerco_image'><img src='./files/nerco_after.png'></div>
 <img src='./files/nerco_before.png'>
 </div>
 <script type="text/javascript">
-function nerco_nightenhance_start() {
-document.getElementById('nerco_nightenhance_image').style.opacity = "1";
+function nerco_start() {
+document.getElementById('nerco_image').style.opacity = "1";
 }
-function nerco_nightenhance_stop() {
-document.getElementById('nerco_nightenhance_image').style.opacity = "0";
+function nerco_stop() {
+document.getElementById('nerco_image').style.opacity = "0";
 }
-nerco_nightenhance_stop()
+nerco_stop()
 </script>
 </td>
 <td valign="top" width="85%">
@@ -120,20 +120,20 @@ nerco_nightenhance_stop()
 <!-- ###################################################################################################-->
 
 <!-- ###################################################################################################-->
-<tr onmouseout="nerfocus_nightenhance_stop()" onmouseover="nerfocus_nightenhance_start()" >
+<tr onmouseout="nerfocus_stop()" onmouseover="nerfocus_start()" >
 <td width="15%">
 <div class="one">
-<div class="two" id = 'nerfocus_nightenhance_image'><img src='./files/nerfocus_after.jpg'></div>
+<div class="two" id = 'nerfocus_image'><img src='./files/nerfocus_after.jpg'></div>
 <img src='./files/nerfocus_before.jpg'>
 </div>
 <script type="text/javascript">
-function nerfocus_nightenhance_start() {
-document.getElementById('nerfocus_nightenhance_image').style.opacity = "1";
+function nerfocus_start() {
+document.getElementById('nerfocus_image').style.opacity = "1";
 }
-function nerfocus_nightenhance_stop() {
-document.getElementById('nerfocus_nightenhance_image').style.opacity = "0";
+function nerfocus_stop() {
+document.getElementById('nerfocus_image').style.opacity = "0";
 }
-nerfocus_nightenhance_stop()
+nerfocus_stop()
 </script>
 </td>
 <td valign="top" width="85%">
