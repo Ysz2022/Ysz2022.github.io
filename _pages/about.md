@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 # 👋 Hi!
-My name is Shuzhou Yang, and I am a 2nd-year Ph.D. student in Computer Science, [Peking University](https://www.pku.edu.cn/), supervised by [Prof. Jian Zhang](https://jianzhang.tech/).
+My name is Shuzhou Yang, and I am a 2nd-year Ph.D. student in Computer Science, [Peking University](https://www.pku.edu.cn/), supervised by [Prof. Jian Zhang](https://jianzhang.tech/). Previously, I received my B.Eng degree from the [Dalian University of Technology](https://en.dlut.edu.cn/) in 2022.
 
-Previously, I received my B.Eng degree from the [Dalian University of Technology](https://en.dlut.edu.cn/) in 2022. My primary research interests include computer vision and deep learning, mainly focusing on Novel View Synthesis and Low-level Vision.
+My primary research interests include Computer Vision and Pattern Recognition, mainly focusing on Novel View Synthesis and Low-level Vision.
 
 # 📜 Research Area
 1. Novel View Synthesis (e.g., NeRF)
