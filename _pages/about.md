@@ -18,6 +18,7 @@ My primary research interests include Computer Vision and Pattern Recognition, m
 3. Low-level Vision (e.g., Image Enhancement)
 
 # 📝 Selected Publications
+Equal-first author†.
 <style type="text/css">
     /* Color scheme stolen from Sergey Karayev */
     a {
@@ -141,7 +142,7 @@ nerfocus_stop()
     <papertitle_just>NeRFocus: Neural Radiance Field for 3D Synthetic Defocus</papertitle_just>     
   </a>
   <br>
-  Yinhuai Wang#, <strong>Shuzhou Yang#</strong>, Yujie Hu, Xinhua Cheng, Jian Zhang*. (Equal-first author)
+  Yinhuai Wang†, <strong>Shuzhou Yang†</strong>, Yujie Hu, Xinhua Cheng, Jian Zhang*.
   <br>
 <em>Computer Vision and Pattern Recognition Workshop (CVPRW)</em>, 2023 <br>
 <a href="https://arxiv.org/abs/2203.05189">arXiv</a>
