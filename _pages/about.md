@@ -18,7 +18,7 @@ My primary research interests include Computer Vision and Pattern Recognition, m
 3. Low-level Vision (e.g., Image Enhancement)
 
 # 📝 Selected Publications
-Equal-first author†.
+†Equal-first author.
 <style type="text/css">
     /* Color scheme stolen from Sergey Karayev */
     a {
