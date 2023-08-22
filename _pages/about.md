@@ -87,6 +87,38 @@ My primary research interests include Computer Vision and Pattern Recognition, m
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="10">
 <tbody>
 <!-- ###################################################################################################-->
+<tr onmouseout="difflle_stop()" onmouseover="difflle_start()" >
+<td width="20%">
+<div class="one">
+<div class="two" id = 'difflle_image'><img src='./files/difflle_after.png'></div>
+<img src='./files/difflle_before.png'>
+</div>
+<script type="text/javascript">
+function difflle_start() {
+document.getElementById('difflle_image').style.opacity = "1";
+}
+function difflle_stop() {
+document.getElementById('difflle_image').style.opacity = "0";
+}
+difflle_stop()
+</script>
+</td>
+<td valign="top" width="80%">
+  <a href="https://arxiv.org/abs/2308.09279">
+    <papertitle_just>DiffLLE: Diffusion-guided Domain Calibration for Unsupervised Low-light Image Enhancement</papertitle_just>     
+  </a>
+  <br>
+  <strong>Shuzhou Yang†</strong>, Xuanyu Zhang†, Yinhuai Wang, Jiwen Yu, Yuhan Wang, Jian Zhang*.
+  <br>
+<em>Preprint</em>, 2023 <br>
+<a href="https://arxiv.org/abs/2308.09279">arXiv</a>
+<p></p>
+<p>Bridge the gap between real scenes and training data by diffusion model prior.</p>
+</td>
+</tr>
+<!-- ###################################################################################################-->
+
+<!-- ###################################################################################################-->
 <tr onmouseout="nerco_stop()" onmouseover="nerco_start()" >
 <td width="20%">
 <div class="one">
