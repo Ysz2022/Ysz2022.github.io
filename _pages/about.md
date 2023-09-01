@@ -189,5 +189,5 @@ nerfocus_stop()
 
 
 # 🏫 Educations
-- Sep'2022-Jul'2027: Ph.D. (Computer Science), PKU, China
-- Sep'2018-Jul'2022: B.Eng (Software Engineering), DLUT, China
+- Sep'2022-Jul'2027: Ph.D. (Computer Science), <img src="/files/PKU.png" alt="PKU" width="20.842" height="20"> PKU, China
+- Sep'2018-Jul'2022: B.Eng (Software Engineering), <img src="/files/DLUT.png" alt="DLUT" width="20.842" height="20"> DLUT, China
