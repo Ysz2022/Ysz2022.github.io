@@ -145,7 +145,7 @@ nerco_stop()
 <em>International Conference on Computer Vision (ICCV)</em>, 2023 <br>
 <a href="https://arxiv.org/pdf/2303.11722">arXiv</a>
 |
-<a href="https://github.com/Ysz2022/NeRCo">code</a>
+<a href="https://github.com/Ysz2022/NeRCo"><img src="https://img.shields.io/github/stars/Ysz2022/NeRCo?style=social&label=Stars">code</a>
 <p></p>
 <p>Normalize images by neural representation and enhance them based on CLIP prior.</p>
 </td>
@@ -179,7 +179,7 @@ nerfocus_stop()
 <em>Computer Vision and Pattern Recognition Workshop (CVPRW)</em>, 2023 <br>
 <a href="https://arxiv.org/abs/2203.05189">arXiv</a>
 |
-<a href="https://github.com/wyhuai/NeRFocus">code</a>
+<a href="https://github.com/wyhuai/NeRFocus"><img src="https://img.shields.io/github/stars/wyhuai/NeRFocus?style=social&label=Stars">code</a>
 <p></p>
 <p>Realize defocusing effect in 3D scenarios.</p>
 </td>
