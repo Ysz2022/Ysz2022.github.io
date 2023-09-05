@@ -12,6 +12,8 @@ My name is Shuzhou Yang, and I am a 2nd-year Ph.D. student in <img src="/files/P
 
 My primary research interests include Computer Vision and Pattern Recognition, mainly focusing on Novel View Synthesis and Low-level Vision.
 
+Welcome to contact me through Email or WeChat. My WeChat account is ysz2722316832. Welcome to communicate with me 👏👏！ (:
+
 # 📜 Research Area
 1. Novel View Synthesis (e.g., NeRF)
 2. Generative Model (e.g., GAN, Diffusion)
