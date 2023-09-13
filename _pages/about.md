@@ -10,9 +10,7 @@ redirect_from:
 # 👋 Hi!
 My name is Shuzhou Yang, and I am a 2nd-year Ph.D. student in <img src="/files/PKU.png" alt="PKU" width="20.842" height="20"> Computer Science, [Peking University](https://www.pku.edu.cn/), supervised by [Prof. Jian Zhang](https://jianzhang.tech/). Previously, I received my B.Eng degree from <img src="/files/DLUT.png" alt="DLUT" width="20.842" height="20"> [Dalian University of Technology](https://en.dlut.edu.cn/) in 2022.
 
-My primary research interests include Computer Vision and Pattern Recognition, mainly focusing on Novel View Synthesis and Low-level Vision.
-
-Welcome to contact me through Email or WeChat. My WeChat account is ysz2722316832. Welcome to communicate with me 👏👏！ (:
+My primary research interests include Computer Vision and Machine Learning, mainly focusing on Novel View Synthesis, Generative Model, and Low-level Vision.
 
 # 📜 Research Area
 1. Novel View Synthesis (e.g., NeRF)
