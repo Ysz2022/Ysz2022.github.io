@@ -136,14 +136,16 @@ nerco_stop()
 </script>
 </td>
 <td valign="top" width="80%">
-  <a href="https://arxiv.org/pdf/2303.11722">
+  <a href="https://arxiv.org/abs/2303.11722">
     <papertitle_just>Implicit Neural Representation for Cooperative Low-light Image Enhancement</papertitle_just>     
   </a>
   <br>
   <strong>Shuzhou Yang</strong>, Moxuan Ding, Yanmin Wu, Zihan Li, Jian Zhang*.
   <br>
 <em>International Conference on Computer Vision (ICCV)</em>, 2023 <br>
-<a href="https://arxiv.org/pdf/2303.11722">arXiv</a>
+<a href="https://arxiv.org/abs/2303.11722">arXiv</a>
+|
+<a href="https://openaccess.thecvf.com/content/ICCV2023/html/Yang_Implicit_Neural_Representation_for_Cooperative_Low-light_Image_Enhancement_ICCV_2023_paper.html">Paper</a>
 |
 <a href="https://github.com/Ysz2022/NeRCo"><img src="https://img.shields.io/github/stars/Ysz2022/NeRCo?style=social&label=Stars"></a>
 <p></p>
