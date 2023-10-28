@@ -13,9 +13,9 @@ My name is Shuzhou Yang, and I am a 2nd-year Ph.D. student in <img src="/files/P
 My primary research interests include Computer Vision and Machine Learning, mainly focusing on Novel View Synthesis, Generative Model, and Low-level Vision.
 
 # 📜 Research Area
-1. Novel View Synthesis (e.g., NeRF)
-2. Generative Model (e.g., GAN, Diffusion)
-3. Low-level Vision (e.g., Image Enhancement)
+1. Low-level Vision
+2. Generative Model
+3. Novel View Synthesis
 
 # 📝 Selected Publications
 †Equal-first author.
