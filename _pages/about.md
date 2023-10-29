@@ -18,7 +18,7 @@ My primary research interests include Computer Vision and Machine Learning, main
 3. Novel View Synthesis
 
 # 📝 Selected Publications
-†Equal-first author.
+†Equal contribution.
 <style type="text/css">
     /* Color scheme stolen from Sergey Karayev */
     a {
