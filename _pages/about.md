@@ -13,9 +13,8 @@ My name is Shuzhou Yang, and I am a 2nd-year Ph.D. student in <img src="/files/P
 My primary research interests include Computer Vision and Machine Learning, mainly focusing on Novel View Synthesis, Generative Model, and Low-level Vision.
 
 # 📜 Research Area
-1. Low-level Vision
-2. Generative Model
-3. Novel View Synthesis
+1. Visual AIGC
+2. Low-level Vision
 
 # 📝 Selected Publications
 †Equal contribution.
@@ -147,7 +146,7 @@ nerco_stop()
 |
 <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Yang_Implicit_Neural_Representation_for_Cooperative_Low-light_Image_Enhancement_ICCV_2023_paper.html">Paper</a>
 |
-<a href="https://github.com/Ysz2022/NeRCo"><img src="https://img.shields.io/github/stars/Ysz2022/NeRCo?style=social&label=Stars"></a>
+<a href="https://github.com/Ysz2022/NeRCo">code<img src="https://img.shields.io/github/stars/Ysz2022/NeRCo?style=social&label=Stars"></a>
 <p></p>
 <p>Normalize images by neural representation and enhance them based on CLIP prior.</p>
 </td>
@@ -181,7 +180,7 @@ nerfocus_stop()
 <em>Computer Vision and Pattern Recognition Workshop (CVPRW)</em>, 2023 <br>
 <a href="https://arxiv.org/abs/2203.05189">arXiv</a>
 |
-<a href="https://github.com/wyhuai/NeRFocus"><img src="https://img.shields.io/github/stars/wyhuai/NeRFocus?style=social&label=Stars"></a>
+<a href="https://github.com/wyhuai/NeRFocus">code<img src="https://img.shields.io/github/stars/wyhuai/NeRFocus?style=social&label=Stars"></a>
 <p></p>
 <p>Realize defocusing effect in 3D scenarios.</p>
 </td>
@@ -193,3 +192,7 @@ nerfocus_stop()
 # 🏫 Educations
 - Sep'2022-Jul'2027: Ph.D. (Computer Science), <img src="/files/PKU.png" alt="PKU" width="20.842" height="20"> PKU, China
 - Sep'2018-Jul'2022: B.Eng (Software Engineering), <img src="/files/DLUT.png" alt="DLUT" width="20.842" height="20"> DLUT, China
+
+
+# 💻 Academic Services
+- Reviewer: IEEE Trans. MultiMedia
