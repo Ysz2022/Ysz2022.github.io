@@ -45,12 +45,12 @@ My primary research interests include Computer Vision and Deep Learning, mainly 
     papertitle {
     font-family: 'Lato', Verdana, Helvetica, sans-serif;
     font-size: 14px;
-    font-weight: 300
+    font-weight: 500
     }
     papertitle_just {
     font-family: 'Lato', Verdana, Helvetica, sans-serif;
     font-size: 14px;
-    font-weight: 300;
+    font-weight: 500;
     text-align: justify
     }
     name {
