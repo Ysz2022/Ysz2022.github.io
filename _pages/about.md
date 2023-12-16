@@ -10,14 +10,14 @@ redirect_from:
 # 👋 Hi!
 My name is Shuzhou Yang, and I am a 2nd-year Ph.D. student in <img src="/files/PKU.png" alt="PKU" width="20.842" height="20"> Computer Science, [Peking University](https://www.pku.edu.cn/), supervised by [Prof. Jian Zhang](https://jianzhang.tech/). Previously, I received my B.Eng degree from <img src="/files/DLUT.png" alt="DLUT" width="20.842" height="20"> [Dalian University of Technology](https://en.dlut.edu.cn/) in 2022.
 
-My primary research interests include Computer Vision and Machine Learning, mainly focusing on Visual Artificial Intelligence Generative Content (AIGC), and Low-level Vision.
+My primary research interests include Computer Vision and Deep Learning, mainly focusing on Artificial Intelligence Generative Content (AIGC), and Low-level Vision.
 
 # 📜 Research Area
-1. Visual AIGC
+1. AIGC
 2. Low-level Vision
 
 # 📝 Selected Publications
-†Equal contribution.
+Equal contribution†.
 <style type="text/css">
     /* Color scheme stolen from Sergey Karayev */
     a {
@@ -111,6 +111,10 @@ nvedit_stop()
   <br>
 <em>Preprint</em>, 2023 <br>
 <a href="https://arxiv.org/abs/2312.08882">arXiv</a>
+|
+<a href="https://nvedit.github.io/">Project Page</a>
+|
+<a href="https://github.com/Ysz2022/NVEdit">code<img src="https://img.shields.io/github/stars/Ysz2022/NVEdit?style=social&label=Stars"></a>
 <p></p>
 <p>Editing long videos coherently via neural video fields.</p>
 </td>
