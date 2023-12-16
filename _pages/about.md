@@ -225,9 +225,9 @@ nerfocus_stop()
 
 
 # 🏫 Educations
-- Sep'2022-Jul'2027: Ph.D. (Computer Science), <img src="/files/PKU.png" alt="PKU" width="20.842" height="20"> PKU
-- Sep'2018-Jul'2022: B.Eng (Software Engineering), <img src="/files/DLUT.png" alt="DLUT" width="20.842" height="20"> DLUT
+- Sep'2022-Jul'2027: Ph.D. (Computer Science), <img src="/files/PKU.png" alt="PKU" width="20.842" height="20"> Peking University
+- Sep'2018-Jul'2022: B.Eng (Software Engineering), <img src="/files/DLUT.png" alt="DLUT" width="20.842" height="20"> Dalian University of Technology
 
 
 # 💻 Academic Services
-- Reviewer: IEEE Trans. MultiMedia
+- Reviewer: IEEE TMM
