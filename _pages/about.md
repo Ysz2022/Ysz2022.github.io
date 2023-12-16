@@ -17,7 +17,6 @@ My primary research interests include Computer Vision and Deep Learning, mainly 
 2. Low-level Vision
 
 # 📝 Selected Publications
-Equal contribution†.
 <style type="text/css">
     /* Color scheme stolen from Sergey Karayev */
     a {
