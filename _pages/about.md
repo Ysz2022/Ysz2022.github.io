@@ -86,6 +86,38 @@ My primary research interests include Computer Vision and Machine Learning, main
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="10">
 <tbody>
 <!-- ###################################################################################################-->
+<tr onmouseout="nvedit_stop()" onmouseover="nvedit_start()" >
+<td width="20%">
+<div class="one">
+<div class="two" id = 'nvedit_image'><img src='./files/nvedit_after.gif'></div>
+<img src='./files/nvedit_before.gif'>
+</div>
+<script type="text/javascript">
+function nvedit_start() {
+document.getElementById('nvedit_image').style.opacity = "1";
+}
+function nvedit_stop() {
+document.getElementById('nvedit_image').style.opacity = "0";
+}
+nvedit_stop()
+</script>
+</td>
+<td valign="top" width="80%">
+  <a href="https://arxiv.org/abs/2312.08882">
+    <papertitle_just>Neural Video Fields Editing</papertitle_just>     
+  </a>
+  <br>
+  <strong>Shuzhou Yang</strong>, Chong Mou, Jiwen Yu, Yuhan Wang, Xiandong Meng, Jian Zhang*.
+  <br>
+<em>Preprint</em>, 2023 <br>
+<a href="https://arxiv.org/abs/2312.08882">arXiv</a>
+<p></p>
+<p>Editing long videos coherently via neural video fields.</p>
+</td>
+</tr>
+<!-- ###################################################################################################-->
+  
+<!-- ###################################################################################################-->
 <tr onmouseout="difflle_stop()" onmouseover="difflle_start()" >
 <td width="20%">
 <div class="one">
