@@ -113,7 +113,7 @@ nvedit_stop()
 |
 <a href="https://nvedit.github.io/">Project Page</a>
 |
-<a href="https://github.com/Ysz2022/NVEdit">code<img src="https://img.shields.io/github/stars/Ysz2022/NVEdit?style=social&label=Stars"></a>
+<a href="https://github.com/Ysz2022/NVEdit">Code<img src="https://img.shields.io/github/stars/Ysz2022/NVEdit?style=social&label=Stars"></a>
 <p></p>
 <p>Editing long videos coherently via neural video fields.</p>
 </td>
@@ -170,7 +170,7 @@ nerco_stop()
 </script>
 </td>
 <td valign="top" width="80%">
-  <a href="https://arxiv.org/abs/2303.11722">
+  <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Yang_Implicit_Neural_Representation_for_Cooperative_Low-light_Image_Enhancement_ICCV_2023_paper.html">
     <papertitle_just>Implicit Neural Representation for Cooperative Low-light Image Enhancement</papertitle_just>     
   </a>
   <br>
@@ -181,9 +181,43 @@ nerco_stop()
 |
 <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Yang_Implicit_Neural_Representation_for_Cooperative_Low-light_Image_Enhancement_ICCV_2023_paper.html">Paper</a>
 |
-<a href="https://github.com/Ysz2022/NeRCo">code<img src="https://img.shields.io/github/stars/Ysz2022/NeRCo?style=social&label=Stars"></a>
+<a href="https://github.com/Ysz2022/NeRCo">Code<img src="https://img.shields.io/github/stars/Ysz2022/NeRCo?style=social&label=Stars"></a>
 <p></p>
 <p>Normalize images by neural representation and enhance them based on CLIP prior.</p>
+</td>
+</tr>
+<!-- ###################################################################################################-->
+
+<!-- ###################################################################################################-->
+<tr onmouseout="sepc_stop()" onmouseover="sepc_start()" >
+<td width="20%">
+<div class="one">
+<div class="two" id = 'sepc_image'><img src='./files/sepc_after.png'></div>
+<img src='./files/sepc_before.png'>
+</div>
+<script type="text/javascript">
+function sepc_start() {
+document.getElementById('sepc_image').style.opacity = "1";
+}
+function sepc_stop() {
+document.getElementById('sepc_image').style.opacity = "0";
+}
+sepc_stop()
+</script>
+</td>
+<td valign="top" width="80%">
+  <a href="https://ieeexplore.ieee.org/document/10363208">
+    <papertitle_just>Multi-scale Synergism Ensemble Progressive and Contrastive Investigation for Image Restoration</papertitle_just>     
+  </a>
+  <br>
+  Zhiying Jiang†, <strong>Shuzhou Yang</strong>†, Jinyuan Liu, Xin Fan, Risheng Liu*.
+  <br>
+<em>IEEE Transactions on Instrumentation and Measurement (TIM)</em>, 2023 <br>
+<a href="https://ieeexplore.ieee.org/document/10363208">Paper</a>
+|
+<a href="https://github.com/Ysz2022/SEPC">Code</a>
+<p></p>
+<p>Restore multiple types of image degradation via a multi-scale progressive model.</p>
 </td>
 </tr>
 <!-- ###################################################################################################-->
@@ -210,12 +244,12 @@ nerfocus_stop()
     <papertitle_just>NeRFocus: Neural Radiance Field for 3D Synthetic Defocus</papertitle_just>     
   </a>
   <br>
-  Yinhuai Wang†, <strong>Shuzhou Yang</strong>†, Yujie Hu, Xinhua Cheng, Jian Zhang*.
+  Yinhuai Wang†, <strong>Shuzhou Yang</strong>†, Yujie Hu, Jian Zhang*.
   <br>
 <em>Computer Vision and Pattern Recognition Workshop (CVPRW)</em>, 2023 <br>
 <a href="https://arxiv.org/abs/2203.05189">arXiv</a>
 |
-<a href="https://github.com/wyhuai/NeRFocus">code<img src="https://img.shields.io/github/stars/wyhuai/NeRFocus?style=social&label=Stars"></a>
+<a href="https://github.com/wyhuai/NeRFocus">Code<img src="https://img.shields.io/github/stars/wyhuai/NeRFocus?style=social&label=Stars"></a>
 <p></p>
 <p>Realize defocusing effect in 3D scenarios.</p>
 </td>
