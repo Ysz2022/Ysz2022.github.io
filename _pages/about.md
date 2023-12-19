@@ -217,7 +217,7 @@ sepc_stop()
 |
 <a href="https://github.com/Ysz2022/SEPC">Code<img src="https://img.shields.io/github/stars/Ysz2022/SEPC?style=social&label=Stars"></a>
 <p></p>
-<p>Restore various types of image degradation via a multi-scale progressive model.</p>
+<p>Restore image degradation through a multi-scale progressive model.</p>
 </td>
 </tr>
 <!-- ###################################################################################################-->
