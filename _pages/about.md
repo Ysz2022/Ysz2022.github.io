@@ -176,7 +176,7 @@ nerco_stop()
   <br>
   <strong>Shuzhou Yang</strong>, Moxuan Ding, Yanmin Wu, Zihan Li, Jian Zhang*.
   <br>
-<em>International Conference on Computer Vision (<font color=Gold>ICCV</font>)</em>, 2023 <br>
+<em>International Conference on Computer Vision (<font color=GoldenRod>ICCV</font>)</em>, 2023 <br>
 <a href="https://arxiv.org/abs/2303.11722">arXiv</a>
 |
 <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Yang_Implicit_Neural_Representation_for_Cooperative_Low-light_Image_Enhancement_ICCV_2023_paper.html">Paper</a>
@@ -212,7 +212,7 @@ sepc_stop()
   <br>
   Zhiying Jiang†, <strong>Shuzhou Yang</strong>†, Jinyuan Liu, Xin Fan, Risheng Liu*.
   <br>
-<em>IEEE Transactions on Instrumentation and Measurement (<font color=Gold>TIM</font>)</em>, 2023 <br>
+<em>IEEE Transactions on Instrumentation and Measurement (<font color=GoldenRod>TIM</font>)</em>, 2023 <br>
 <a href="https://ieeexplore.ieee.org/document/10363208">Paper</a>
 |
 <a href="https://github.com/Ysz2022/SEPC">Code<img src="https://img.shields.io/github/stars/Ysz2022/SEPC?style=social&label=Stars"></a>
@@ -246,7 +246,7 @@ nerfocus_stop()
   <br>
   Yinhuai Wang†, <strong>Shuzhou Yang</strong>†, Yujie Hu, Jian Zhang*.
   <br>
-<em>Computer Vision and Pattern Recognition Workshop (<font color=Gold>CVPRW</font>)</em>, 2023 <br>
+<em>Computer Vision and Pattern Recognition Workshop (<font color=GoldenRod>CVPRW</font>)</em>, 2023 <br>
 <a href="https://arxiv.org/abs/2203.05189">arXiv</a>
 |
 <a href="https://github.com/wyhuai/NeRFocus">Code<img src="https://img.shields.io/github/stars/wyhuai/NeRFocus?style=social&label=Stars"></a>
