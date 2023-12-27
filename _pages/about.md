@@ -215,7 +215,7 @@ sepc_stop()
 <em>IEEE Transactions on Instrumentation and Measurement (<font color=GoldenRod>TIM</font>)</em>, 2023 <br>
 <a href="https://ieeexplore.ieee.org/document/10363208">Paper</a>
 |
-<a href="https://github.com/Ysz2022/SEPC">Code<img src="https://img.shields.io/github/stars/Ysz2022/SEPC?style=social&label=Stars"></a>
+<a href="https://github.com/Ysz2022/SEPC">Code</a>
 <p></p>
 <p>Restore image degradation through a multi-scale progressive network.</p>
 </td>
@@ -249,7 +249,7 @@ nerfocus_stop()
 <em>Computer Vision and Pattern Recognition Workshop (<font color=GoldenRod>CVPRW</font>)</em>, 2023 <br>
 <a href="https://arxiv.org/abs/2203.05189">arXiv</a>
 |
-<a href="https://github.com/wyhuai/NeRFocus">Code<img src="https://img.shields.io/github/stars/wyhuai/NeRFocus?style=social&label=Stars"></a>
+<a href="https://github.com/wyhuai/NeRFocus">Code</a>
 <p></p>
 <p>Realize defocusing effect in 3D scenarios.</p>
 </td>
