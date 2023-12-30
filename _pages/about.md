@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<link rel="shortcut icon" href="../files/PKU.png">
 # 👋 Hi!
 My name is Shuzhou Yang, and I am a 2nd-year Ph.D. student in <img src="/files/PKU.png" alt="PKU" width="20.842" height="20"> Computer Science, [Peking University](https://www.pku.edu.cn/), supervised by [Prof. Jian Zhang](https://jianzhang.tech/). Previously, I received my B.Eng degree from <img src="/files/DLUT.png" alt="DLUT" width="20.842" height="20"> [Dalian University of Technology](https://en.dlut.edu.cn/) in 2022.
 
