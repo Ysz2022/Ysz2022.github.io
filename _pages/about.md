@@ -266,3 +266,6 @@ nerfocus_stop()
 
 # 💻 Academic Services
 - Reviewer: IEEE TMM
+
+# 😀 My Dream
+- Writing *Mathematical Principles of Artificial Intelligence* (《人工智能的数学原理》)
