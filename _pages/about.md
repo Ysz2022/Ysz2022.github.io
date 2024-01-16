@@ -85,6 +85,7 @@ My primary research interests include Computer Vision and Deep Learning, mainly 
 <!-- ################################  CONTENT START  ##################################################-->
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="10">
 <tbody>
+Equal Contribution†, Corresponding Author*
 <!-- ###################################################################################################-->
 <tr onmouseout="nvedit_stop()" onmouseover="nvedit_start()" >
 <td width="20%">
