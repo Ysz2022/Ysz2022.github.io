@@ -183,7 +183,7 @@ nerco_stop()
 |
 <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Yang_Implicit_Neural_Representation_for_Cooperative_Low-light_Image_Enhancement_ICCV_2023_paper.html">Paper</a>
 |
-<a href="https://github.com/Ysz2022/NeRCo">Code<img src="https://img.shields.io/github/stars/Ysz2022/NeRCo"></a>
+<a href="https://github.com/Ysz2022/NeRCo">Code<img src="https://img.shields.io/github/stars/Ysz2022/NeRCo?style=social&label=Stars"></a>
 <p></p>
 <p>Normalize images by neural representation and enhance them based on CLIP prior.</p>
 </td>
