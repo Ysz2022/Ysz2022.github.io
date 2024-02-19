@@ -115,7 +115,7 @@ nvedit_stop()
 |
 <a href="https://nvedit.github.io/">Project Page</a>
 |
-<a href="https://github.com/Ysz2022/NVEdit">Code<img src="https://img.shields.io/github/stars/Ysz2022/NVEdit"></a>
+<a href="https://github.com/Ysz2022/NVEdit">Code<img src="https://img.shields.io/github/stars/Ysz2022/NVEdit?style=social&label=Stars"></a>
 <p></p>
 <p>Editing long videos coherently via neural video fields.</p>
 </td>
