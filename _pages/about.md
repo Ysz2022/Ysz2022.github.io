@@ -88,6 +88,42 @@ My primary research interests include Computer Vision and Machine Learning, main
 <tbody>
 &ensp;Equal Contribution†, Corresponding Author*
 <!-- ###################################################################################################-->
+<tr onmouseout="fourier123_stop()" onmouseover="fourier123_start()" >
+<td width="20%">
+<div class="one">
+<div class="two" id = 'fourier123_image'><img src='./files/fourier123_after.gif'></div>
+<img src='./files/fourier123_before.png'>
+</div>
+<script type="text/javascript">
+function fourier123_start() {
+document.getElementById('fourier123_image').style.opacity = "1";
+}
+function fourier123_stop() {
+document.getElementById('fourier123_image').style.opacity = "0";
+}
+fourier123_stop()
+</script>
+</td>
+<td valign="top" width="80%">
+  <a href="https://arxiv.org/abs/2312.08882">
+    <papertitle_just>Neural Video Fields Editing</papertitle_just>     
+  </a>
+  <br>
+  <strong>Shuzhou Yang</strong>, Chong Mou, Jiwen Yu, Yuhan Wang, Xiandong Meng, Jian Zhang*.
+  <br>
+<em>Preprint</em>, 2023 <br>
+<a href="https://arxiv.org/abs/2405.20669">arXiv</a>
+|
+<a href="https://fourier1-to-3.github.io/">Project Page</a>
+|
+<a href="https://github.com/Ysz2022/Fourier123">Code<img src="https://img.shields.io/github/stars/Ysz2022/Fourier123?style=social&label=Stars"></a>
+<p></p>
+<p>Editing long videos coherently via neural video fields.</p>
+</td>
+</tr>
+<!-- ###################################################################################################-->
+  
+<!-- ###################################################################################################-->
 <tr onmouseout="nvedit_stop()" onmouseover="nvedit_start()" >
 <td width="20%">
 <div class="one">
