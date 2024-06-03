@@ -105,8 +105,8 @@ fourier123_stop()
 </script>
 </td>
 <td valign="top" width="80%">
-  <a href="https://arxiv.org/abs/2312.08882">
-    <papertitle_just>Neural Video Fields Editing</papertitle_just>     
+  <a href="https://arxiv.org/abs/2405.20669">
+    <papertitle_just>Fourier123: One Image to High-Quality 3D Object Generation with Hybrid Fourier Score Distillation</papertitle_just>     
   </a>
   <br>
   <strong>Shuzhou Yang</strong>, Yu Wang, Haijie Li, Jiarui Meng, Xiandong Meng, Jian Zhang*.
