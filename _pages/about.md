@@ -118,7 +118,7 @@ fourier123_stop()
 |
 <a href="https://github.com/Ysz2022/Fourier123">Code<img src="https://img.shields.io/github/stars/Ysz2022/Fourier123?style=social&label=Stars"></a>
 <p></p>
-<p>Using both 2D and 3D diffusion models to generate 3D from one image with hybrid fourier score distillation.</p>
+<p>Using both 2D and 3D diffusion models to generate 3D asset from a single image with hybrid fourier score distillation.</p>
 </td>
 </tr>
 <!-- ###################################################################################################-->
