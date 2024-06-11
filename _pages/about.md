@@ -111,11 +111,11 @@ fourier123_stop()
   <strong>Shuzhou Yang</strong>, Yu Wang, Haijie Li, Jiarui Meng, Xiandong Meng, Jian Zhang*.
   <br>
 <em>Preprint</em>, 2024 <br>
-<a href="https://arxiv.org/abs/2405.20669">arXiv</a>
-|
-<a href="https://fourier1-to-3.github.io/">Project Page</a>
-|
-<a href="https://github.com/Ysz2022/Fourier123">Code<img src="https://img.shields.io/github/stars/Ysz2022/Fourier123?style=social&label=Stars"></a>
+[<a href="https://arxiv.org/abs/2405.20669">arXiv</a>]
+
+[<a href="https://fourier1-to-3.github.io/">Project Page</a>]
+
+[<a href="https://github.com/Ysz2022/Fourier123">Code<img src="https://img.shields.io/github/stars/Ysz2022/Fourier123?style=social&label=Stars"></a>]
 <p></p>
 <p>Using both 2D and 3D diffusion models to generate 3D asset from a single image with hybrid fourier score distillation.</p>
 </td>
@@ -147,11 +147,11 @@ nvedit_stop()
   <strong>Shuzhou Yang</strong>, Chong Mou, Jiwen Yu, Yuhan Wang, Xiandong Meng, Jian Zhang*.
   <br>
 <em>Preprint</em>, 2023 <br>
-<a href="https://arxiv.org/abs/2312.08882">arXiv</a>
-|
-<a href="https://nvedit.github.io/">Project Page</a>
-|
-<a href="https://github.com/Ysz2022/NVEdit">Code<img src="https://img.shields.io/github/stars/Ysz2022/NVEdit?style=social&label=Stars"></a>
+[<a href="https://arxiv.org/abs/2312.08882">arXiv</a>]
+
+[<a href="https://nvedit.github.io/">Project Page</a>]
+
+[<a href="https://github.com/Ysz2022/NVEdit">Code<img src="https://img.shields.io/github/stars/Ysz2022/NVEdit?style=social&label=Stars"></a>]
 <p></p>
 <p>Editing long videos coherently via neural video fields.</p>
 </td>
@@ -183,7 +183,7 @@ difflle_stop()
   <strong>Shuzhou Yang</strong>†, Xuanyu Zhang†, Yinhuai Wang, Jiwen Yu, Yuhan Wang, Jian Zhang*.
   <br>
 <em>Preprint</em>, 2023 <br>
-<a href="https://arxiv.org/abs/2308.09279">arXiv</a>
+[<a href="https://arxiv.org/abs/2308.09279">arXiv</a>]
 <p></p>
 <p>Bridge the gap between real scenes and training data by diffusion model prior.</p>
 </td>
@@ -215,11 +215,11 @@ nerco_stop()
   <strong>Shuzhou Yang</strong>, Moxuan Ding, Yanmin Wu, Zihan Li, Jian Zhang*.
   <br>
 <em>International Conference on Computer Vision (<font color=GoldenRod>ICCV</font>)</em>, 2023 <br>
-<a href="https://arxiv.org/abs/2303.11722">arXiv</a>
-|
-<a href="https://openaccess.thecvf.com/content/ICCV2023/html/Yang_Implicit_Neural_Representation_for_Cooperative_Low-light_Image_Enhancement_ICCV_2023_paper.html">Paper</a>
-|
-<a href="https://github.com/Ysz2022/NeRCo">Code<img src="https://img.shields.io/github/stars/Ysz2022/NeRCo?style=social&label=Stars"></a>
+[<a href="https://arxiv.org/abs/2303.11722">arXiv</a>]
+
+[<a href="https://openaccess.thecvf.com/content/ICCV2023/html/Yang_Implicit_Neural_Representation_for_Cooperative_Low-light_Image_Enhancement_ICCV_2023_paper.html">Paper</a>]
+
+[<a href="https://github.com/Ysz2022/NeRCo">Code<img src="https://img.shields.io/github/stars/Ysz2022/NeRCo?style=social&label=Stars"></a>]
 <p></p>
 <p>Normalize images by neural representation and enhance them based on CLIP prior.</p>
 </td>
@@ -251,9 +251,9 @@ sepc_stop()
   Zhiying Jiang†, <strong>Shuzhou Yang</strong>†, Jinyuan Liu, Xin Fan, Risheng Liu*.
   <br>
 <em>IEEE Transactions on Instrumentation and Measurement (<font color=GoldenRod>TIM</font>)</em>, 2023 <br>
-<a href="https://ieeexplore.ieee.org/document/10363208">Paper</a>
-|
-<a href="https://github.com/Ysz2022/SEPC">Code</a>
+[<a href="https://ieeexplore.ieee.org/document/10363208">Paper</a>]
+
+[<a href="https://github.com/Ysz2022/SEPC">Code</a>]
 <p></p>
 <p>Restore image degradation through a multi-scale progressive network.</p>
 </td>
