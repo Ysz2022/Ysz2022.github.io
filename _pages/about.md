@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-# 👋 Hi!
-My name is Shuzhou Yang, and I am a 2nd-year Ph.D. student in <img src="/files/PKU.png" alt="PKU" width="20.842" height="20"> Computer Science, [Peking University](https://www.pku.edu.cn/), supervised by [Prof. Jian Zhang](https://jianzhang.tech/). Previously, I received my B.Eng degree from <img src="/files/DLUT.png" alt="DLUT" width="20.842" height="20"> [Dalian University of Technology](https://en.dlut.edu.cn/) in 2022. 
+Currently, I am a 2nd-year Ph.D. student in <img src="/files/PKU.png" alt="PKU" width="20.842" height="20"> Computer Science, [Peking University](https://www.pku.edu.cn/), supervised by [Prof. Jian Zhang](https://jianzhang.tech/). Previously, I received my B.Eng degree from <img src="/files/DLUT.png" alt="DLUT" width="20.842" height="20"> [Dalian University of Technology](https://en.dlut.edu.cn/) in 2022. 
 
-My primary research interests include Computer Vision and Machine Learning, mainly focusing on visual Artificial Intelligence Generated Content (AIGC), Novel View Synthesis, and Low-level Vision. You are welcome to contact me via my email: szyang AT stu.pku.edu.cn
+My primary research interests include computer vision and machine learning, mainly focusing on visual Artificial Intelligence Generated Content (AIGC), Novel View Synthesis, and Low-level Vision. You are welcome to contact me via my email: szyang AT stu.pku.edu.cn
 
 # 📜 Research Area
 1. AIGC
@@ -286,9 +285,9 @@ nerfocus_stop()
   Yinhuai Wang†, <strong>Shuzhou Yang</strong>†, Yujie Hu, Jian Zhang*.
   <br>
 <em>Computer Vision and Pattern Recognition Workshop (<font color=GoldenRod>CVPRW</font>)</em>, 2023 <br>
-<a href="https://arxiv.org/abs/2203.05189">arXiv</a>
-|
-<a href="https://github.com/wyhuai/NeRFocus">Code</a>
+[<a href="https://arxiv.org/abs/2203.05189">arXiv</a>]
+
+[<a href="https://github.com/wyhuai/NeRFocus">Code</a>]
 <p></p>
 <p>Realize defocusing effect in 3D scenarios.</p>
 </td>
