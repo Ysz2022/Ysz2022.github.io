@@ -302,4 +302,4 @@ nerfocus_stop()
 
 
 # 💻 Academic Services
-- Reviewer: IEEE Transactions on Multimedia (TMM), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+- Reviewer: IEEE Transactions on Multimedia (TMM), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), ACM Transactions on Multimedia Computing, Communications and Applications (TOMM)
