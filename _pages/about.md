@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am a 2nd-year Ph.D. student in <img src="/files/PKU.png" alt="PKU" width="20.842" height="20"> Computer Science, [Peking University](https://www.pku.edu.cn/), supervised by [Prof. Jian Zhang](https://jianzhang.tech/). Previously, I received my B.Eng degree from <img src="/files/DLUT.png" alt="DLUT" width="20.842" height="20"> [Dalian University of Technology](https://en.dlut.edu.cn/) in 2022. 
+Currently, I am a 2nd-year Ph.D. student in <img src="/files/PKU.png" alt="PKU" width="20.842" height="20"> Computer Science, [Peking University](https://www.pku.edu.cn/), supervised by [Prof. Jian Zhang](https://jianzhang.tech/). Previously, I received my B.Eng degree from <img src="/files/DLUT.png" alt="DLUT" width="20.842" height="20"> [Dalian University of Technology](https://en.dlut.edu.cn/) in 2022. During my undergraduate studies, I am privileged to work closely with [Prof. Risheng Liu](https://rsliu.tech/) and [Prof. Xin Fan](https://scholar.google.com/citations?user=vLN1njoAAAAJ&hl=zh-CN) in the field of low-level vision.
 
-My primary research interests include computer vision and machine learning, mainly focusing on visual Artificial Intelligence Generated Content (AIGC), Novel View Synthesis, and Low-level Vision. You are welcome to contact me via my email: szyang AT stu.pku.edu.cn
+My primary research interests include computer vision, 3D vision and machine learning, mainly focusing on visual Artificial Intelligence Generated Content (AIGC), Novel View Synthesis, and Low-level Vision. You are welcome to contact me via my email: szyang AT stu.pku.edu.cn
 
 # 📜 Research Area
 1. AIGC
@@ -296,13 +296,12 @@ nerfocus_stop()
 </tbody></table>
 
 
-# 🏫 Educations
-- Sep'2022-Jul'2027: Ph.D. (Computer Science), <img src="/files/PKU.png" alt="PKU" width="20.842" height="20"> Peking University
-- Sep'2018-Jul'2022: B.Eng (Software Engineering), <img src="/files/DLUT.png" alt="DLUT" width="20.842" height="20"> Dalian University of Technology
-
-
 # 💻 Academic Services
 - Journal Reviewer: 
   - IEEE Transactions on Multimedia (TMM)
   - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
   - ACM Transactions on Multimedia Computing, Communications and Applications (TOMM)
+
+# 🏫 Educations
+- Sep'2022-Jul'2027: Ph.D. (Computer Science), <img src="/files/PKU.png" alt="PKU" width="20.842" height="20"> Peking University
+- Sep'2018-Jul'2022: B.Eng (Software Engineering), <img src="/files/DLUT.png" alt="DLUT" width="20.842" height="20"> Dalian University of Technology
