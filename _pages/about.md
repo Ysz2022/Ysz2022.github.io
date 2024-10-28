@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am a 2nd-year Ph.D. student in <img src="/files/PKU.png" alt="PKU" width="20.842" height="20"> Computer Science, [Peking University](https://www.pku.edu.cn/), supervised by [Prof. Jian Zhang](https://jianzhang.tech/). Previously, I received my B.Eng degree from <img src="/files/DLUT.png" alt="DLUT" width="20.842" height="20"> [Dalian University of Technology](https://en.dlut.edu.cn/) in 2022. During my undergraduate studies, I am privileged to work closely with [Prof. Risheng Liu](https://rsliu.tech/) and [Prof. Xin Fan](https://scholar.google.com/citations?user=vLN1njoAAAAJ&hl=zh-CN) in the field of low-level vision.
+Currently, I am a 3rd-year Ph.D. student in <img src="/files/PKU.png" alt="PKU" width="20.842" height="20"> Computer Science, [Peking University](https://www.pku.edu.cn/), supervised by [Prof. Jian Zhang](https://jianzhang.tech/). Previously, I received my B.Eng degree from <img src="/files/DLUT.png" alt="DLUT" width="20.842" height="20"> [Dalian University of Technology](https://en.dlut.edu.cn/) in 2022. During my undergraduate studies, I am privileged to work closely with [Prof. Risheng Liu](https://rsliu.tech/) and [Prof. Xin Fan](https://scholar.google.com/citations?user=vLN1njoAAAAJ&hl=zh-CN) in the field of low-level vision.
 
 My primary research interests include computer vision, 3D vision and machine learning, mainly focusing on visual Artificial Intelligence Generated Content (AIGC), Novel View Synthesis, and Low-level Vision. You are welcome to contact me via my email: szyang AT stu.pku.edu.cn
 
@@ -182,7 +182,7 @@ difflle_stop()
   <br>
   <strong>Shuzhou Yang</strong>†, Xuanyu Zhang†, Yinhuai Wang, Jiwen Yu, Yuhan Wang, Jian Zhang*.
   <br>
-<em>Preprint</em>, 2023 <br>
+<em>International Journal of Computer Vision (<font color=GoldenRod>IJCV</font>)</em>, 2024 <br>
 <a href="https://arxiv.org/abs/2308.09279">arXiv</a>
 <p></p>
 <p>Bridge the gap between real scenes and training data by diffusion model prior.</p>
