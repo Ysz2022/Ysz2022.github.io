@@ -105,10 +105,10 @@ fourier123_stop()
 </td>
 <td valign="top" width="80%">
   <a href="https://arxiv.org/abs/2405.20669">
-    <papertitle_just>Fourier123: One Image to High-Quality 3D Object Generation with Hybrid Fourier Score Distillation</papertitle_just>     
+    <papertitle_just>Hybrid Fourier Score Distillation for Efficient One Image to 3D Object Generation</papertitle_just>     
   </a>
   <br>
-  <strong>Shuzhou Yang</strong>, Yu Wang, Haijie Li, Jiarui Meng, Xiandong Meng, Jian Zhang*.
+  <strong>Shuzhou Yang</strong>, Yu Wang, Haijie Li, Jiarui Meng, Yanmin Wu, Xiandong Meng, Jian Zhang*.
   <br>
 <em>Preprint</em>, 2024 <br>
 <a href="https://arxiv.org/abs/2405.20669">arXiv</a>
@@ -176,14 +176,16 @@ difflle_stop()
 </script>
 </td>
 <td valign="top" width="80%">
-  <a href="https://arxiv.org/abs/2308.09279">
-    <papertitle_just>DiffLLE: Diffusion-guided Domain Calibration for Unsupervised Low-light Image Enhancement</papertitle_just>     
+  <a href="https://link.springer.com/article/10.1007/s11263-024-02292-4">
+    <papertitle_just>DiffLLE: Diffusion-based Domain Calibration for Weak Supervised Low-light Image Enhancement</papertitle_just>     
   </a>
   <br>
   <strong>Shuzhou Yang</strong>†, Xuanyu Zhang†, Yinhuai Wang, Jiwen Yu, Yuhan Wang, Jian Zhang*.
   <br>
 <em>International Journal of Computer Vision (<font color=GoldenRod>IJCV</font>)</em>, 2024 <br>
 <a href="https://arxiv.org/abs/2308.09279">arXiv</a>
+|
+<a href="https://link.springer.com/article/10.1007/s11263-024-02292-4">Paper</a>
 <p></p>
 <p>Bridge the gap between real scenes and training data by diffusion model prior.</p>
 </td>
