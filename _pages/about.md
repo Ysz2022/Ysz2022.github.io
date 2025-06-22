@@ -300,7 +300,7 @@ nerfocus_stop()
 
 # 💻 Academic Services
 - Journal Reviewer:
-  - Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+  - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
   - IEEE Transactions on Multimedia (TMM)
   - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
   - ACM Transactions on Multimedia Computing, Communications and Applications (TOMM)
