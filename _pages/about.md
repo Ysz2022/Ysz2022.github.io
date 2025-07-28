@@ -146,7 +146,7 @@ nvedit_stop()
   <br>
   <strong>Shuzhou Yang</strong>, Chong Mou, Jiwen Yu, Yuhan Wang, Xiandong Meng, Jian Zhang*.
   <br>
-<em>Preprint</em>, 2023 <br>
+<em>Computational Visual Media (<font color=GoldenRod>CVMJ</font>)</em>, 2025 <br>
 <a href="https://arxiv.org/abs/2312.08882">arXiv</a>
 |
 <a href="https://nvedit.github.io/">Project Page</a>
@@ -182,7 +182,7 @@ difflle_stop()
   <br>
   <strong>Shuzhou Yang</strong>†, Xuanyu Zhang†, Yinhuai Wang, Jiwen Yu, Yuhan Wang, Jian Zhang*.
   <br>
-<em>International Journal of Computer Vision (<font color=GoldenRod>IJCV</font>)</em>, 2024 <br>
+<em>International Journal of Computer Vision (<font color=GoldenRod>IJCV</font>)</em>, 2025 <br>
 <a href="https://arxiv.org/abs/2308.09279">arXiv</a>
 |
 <a href="https://link.springer.com/article/10.1007/s11263-024-02292-4">Paper</a>
@@ -301,8 +301,10 @@ nerfocus_stop()
 # 💻 Academic Services
 - Journal Reviewer:
   - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+  - International Journal of Computer Vision (IJCV)
   - IEEE Transactions on Multimedia (TMM)
   - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+  - IEEE Journal of Selected Topics in Signal Processing (JSTSP)
   - ACM Transactions on Multimedia Computing, Communications and Applications (TOMM)
 
 # 🏫 Educations
