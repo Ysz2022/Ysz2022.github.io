@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am a 4th-year Ph.D. student in <img src="/files/PKU.png" alt="PKU" width="20.842" height="20"> Computer Science, School of Electronic and Computer Engineering, [Peking University](https://www.pku.edu.cn/), supervised by [Prof. Jian Zhang](https://jianzhang.tech/). Previously, I received my B.Eng degree of software engineering from <img src="/files/DLUT.png" alt="DLUT" width="20.842" height="20"> [Dalian University of Technology](https://en.dlut.edu.cn/) in 2022. During my undergraduate studies, I am privileged to work closely with [Prof. Risheng Liu](https://rsliu.tech/) and [Prof. Xin Fan](https://scholar.google.com/citations?user=vLN1njoAAAAJ&hl=zh-CN) in the field of low-level vision.
+Currently, I am a 4th-year Ph.D. student in Computer Science, School of Electronic and Computer Engineering, <img src="/files/PKU.png" alt="PKU" width="20.842" height="20"> [Peking University](https://www.pku.edu.cn/), supervised by [Prof. Jian Zhang](https://jianzhang.tech/). Previously, I received my B.Eng degree of software engineering from <img src="/files/DLUT.png" alt="DLUT" width="20.842" height="20"> [Dalian University of Technology](https://en.dlut.edu.cn/) in 2022. During my undergraduate studies, I am privileged to work closely with [Prof. Risheng Liu](https://rsliu.tech/) and [Prof. Xin Fan](https://scholar.google.com/citations?user=vLN1njoAAAAJ&hl=zh-CN) in the field of low-level vision.
 
 My primary research interests include computer vision, diffusion model, and machine learning, mainly focusing on visual Artificial Intelligence Generated Content (AIGC), Low-level Vision, and Novel View Synthesis. You are welcome to contact me via my email: szyang AT stu.pku.edu.cn
 
