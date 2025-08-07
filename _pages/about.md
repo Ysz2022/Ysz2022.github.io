@@ -87,6 +87,40 @@ My primary research interests include computer vision, diffusion model, and mach
 <tbody>
 &ensp;Equal Contribution†, Corresponding Author*
 <!-- ###################################################################################################-->
+<tr onmouseout="d4vd_stop()" onmouseover="d4vd_start()" >
+<td width="20%">
+<div class="one">
+<div class="two" id = '4dvd_image'><img src='./files/4dvd_after.gif'></div>
+<img src='./files/4dvd_before.gif'>
+</div>
+<script type="text/javascript">
+function d4vd_start() {
+document.getElementById('4dvd_image').style.opacity = "1";
+}
+function d4vd_stop() {
+document.getElementById('4dvd_image').style.opacity = "0";
+}
+d4vd_stop()
+</script>
+</td>
+<td valign="top" width="80%">
+  <a href="https://arxiv.org/abs/2312.08882">
+    <papertitle_just>4DVD: Cascaded Dense-view Video Diffusion Model for High-quality 4D Content Generation</papertitle_just>     
+  </a>
+  <br>
+  <strong>Shuzhou Yang</strong>, Xiaodong Cun, Xiaoyu Li*, Yaowei Li, Jian Zhang*.
+  <br>
+<em>Preprint</em>, 2025 <br>
+<a href="https://arxiv.org/abs/2508.04467">arXiv</a>
+|
+<a href="https://4dvd.github.io/">Project Page</a>
+<p></p>
+<p>Generating dense-view videos through cascaded diffusion model.</p>
+</td>
+</tr>
+<!-- ###################################################################################################-->
+  
+<!-- ###################################################################################################-->
 <tr onmouseout="fourier123_stop()" onmouseover="fourier123_start()" >
 <td width="20%">
 <div class="one">
