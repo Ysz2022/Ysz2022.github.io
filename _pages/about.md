@@ -87,6 +87,42 @@ My primary research interests include computer vision, diffusion model, and mach
 <tbody>
 &ensp;Equal Contribution†, Corresponding Author*
 <!-- ###################################################################################################-->
+<tr onmouseout="gencompositor_stop()" onmouseover="gencompositor_start()" >
+<td width="20%">
+<div class="one">
+<div class="two" id = 'gencompositor_image'><img src='./files/gencompositor_after.gif'></div>
+<img src='./files/gencompositor_before.gif'>
+</div>
+<script type="text/javascript">
+function gencompositor_start() {
+document.getElementById('gencompositor_image').style.opacity = "1";
+}
+function gencompositor_stop() {
+document.getElementById('gencompositor_image').style.opacity = "0";
+}
+gencompositor_stop()
+</script>
+</td>
+<td valign="top" width="80%">
+  <a href="https://arxiv.org/abs/2509.02460">
+    <papertitle_just>GenCompositor: Generative Video Compositing with Diffusion Transformer</papertitle_just>     
+  </a>
+  <br>
+  <strong>Shuzhou Yang</strong>, Xiaoyu Li, Xiaodong Cun, Guangzhi Wang, Lingen Li, Ying Shan, Jian Zhang*.
+  <br>
+<em>Preprint</em>, 2025 <br>
+<a href="https://arxiv.org/abs/2509.02460">arXiv</a>
+|
+<a href="https://gencompositor.github.io/">Project Page</a>
+|
+<a href="https://github.com/TencentARC/GenCompositor">Code<img src="https://img.shields.io/github/stars/TencentARC/GenCompositor?style=social&label=Stars"></a>
+<p></p>
+<p>The prioneer work that enables effortlessly compositing different videos guided by user-specified trajectories and scales.</p>
+</td>
+</tr>
+<!-- ###################################################################################################-->
+  
+<!-- ###################################################################################################-->
 <tr onmouseout="d4vd_stop()" onmouseover="d4vd_start()" >
 <td width="20%">
 <div class="one">
@@ -144,7 +180,7 @@ fourier123_stop()
   <br>
   <strong>Shuzhou Yang</strong>, Yu Wang, Haijie Li, Jiarui Meng, Yanmin Wu, Xiandong Meng, Jian Zhang*.
   <br>
-<em>Preprint</em>, 2024 <br>
+<em>Visual Intelligence (<font color=GoldenRod>VI</font>)</em>, 2025 <br>
 <a href="https://arxiv.org/abs/2405.20669">arXiv</a>
 |
 <a href="https://fourier1-to-3.github.io/">Project Page</a>
