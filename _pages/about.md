@@ -180,7 +180,7 @@ fourier123_stop()
   <br>
   <strong>Shuzhou Yang</strong>, Yu Wang, Haijie Li, Jiarui Meng, Yanmin Wu, Xiandong Meng, Jian Zhang*.
   <br>
-[<font color=GoldenRod>J</font>] <em>Visual Intelligence (<font color=GoldenRod>VI</font>)</em>, 2025 <br>
+<em>Visual Intelligence (<font color=GoldenRod>VI</font>)</em> [<font color=GoldenRod>J</font>], 2025 <br>
 <a href="https://arxiv.org/abs/2405.20669">arXiv</a>
 |
 <a href="https://fourier1-to-3.github.io/">Project Page</a>
@@ -216,7 +216,7 @@ nvedit_stop()
   <br>
   <strong>Shuzhou Yang</strong>, Chong Mou, Jiwen Yu, Yuhan Wang, Xiandong Meng, Jian Zhang*.
   <br>
-[<font color=GoldenRod>J</font>] <em>Computational Visual Media (<font color=GoldenRod>CVMJ</font>)</em>, 2025 <br>
+<em>Computational Visual Media (<font color=GoldenRod>CVMJ</font>)</em> [<font color=GoldenRod>J</font>], 2025 <br>
 <a href="https://arxiv.org/abs/2312.08882">arXiv</a>
 |
 <a href="https://nvedit.github.io/">Project Page</a>
@@ -252,7 +252,7 @@ difflle_stop()
   <br>
   <strong>Shuzhou Yang</strong>†, Xuanyu Zhang†, Yinhuai Wang, Jiwen Yu, Yuhan Wang, Jian Zhang*.
   <br>
-[<font color=GoldenRod>J</font>] <em>International Journal of Computer Vision (<font color=GoldenRod>IJCV</font>)</em>, 2024 <br>
+<em>International Journal of Computer Vision (<font color=GoldenRod>IJCV</font>)</em> [<font color=GoldenRod>J</font>], 2024 <br>
 <a href="https://arxiv.org/abs/2308.09279">arXiv</a>
 |
 <a href="https://link.springer.com/article/10.1007/s11263-024-02292-4">Paper</a>
@@ -286,7 +286,7 @@ nerco_stop()
   <br>
   <strong>Shuzhou Yang</strong>, Moxuan Ding, Yanmin Wu, Zihan Li, Jian Zhang*.
   <br>
-[<font color=GoldenRod>C</font>] <em>International Conference on Computer Vision (<font color=GoldenRod>ICCV</font>)</em>, 2023 <br>
+<em>International Conference on Computer Vision (<font color=GoldenRod>ICCV</font>)</em> [<font color=GoldenRod>C</font>], 2023 <br>
 <a href="https://arxiv.org/abs/2303.11722">arXiv</a>
 |
 <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Yang_Implicit_Neural_Representation_for_Cooperative_Low-light_Image_Enhancement_ICCV_2023_paper.html">Paper</a>
@@ -322,7 +322,7 @@ sepc_stop()
   <br>
   Zhiying Jiang†, <strong>Shuzhou Yang</strong>†, Jinyuan Liu, Xin Fan, Risheng Liu*.
   <br>
-[<font color=GoldenRod>J</font>] <em>IEEE Transactions on Instrumentation and Measurement (<font color=GoldenRod>TIM</font>)</em>, 2023 <br>
+<em>IEEE Transactions on Instrumentation and Measurement (<font color=GoldenRod>TIM</font>)</em> [<font color=GoldenRod>J</font>], 2023 <br>
 <a href="https://ieeexplore.ieee.org/document/10363208">Paper</a>
 |
 <a href="https://github.com/Ysz2022/SEPC">Code</a>
@@ -356,7 +356,7 @@ nerfocus_stop()
   <br>
   Yinhuai Wang†, <strong>Shuzhou Yang</strong>†, Yujie Hu, Jian Zhang*.
   <br>
-[<font color=GoldenRod>C</font>] <em>Computer Vision and Pattern Recognition Workshop (<font color=GoldenRod>CVPRW</font>)</em>, 2023 <br>
+<em>Computer Vision and Pattern Recognition Workshop (<font color=GoldenRod>CVPRW</font>)</em> [<font color=GoldenRod>C</font>], 2023 <br>
 <a href="https://arxiv.org/abs/2203.05189">arXiv</a>
 |
 <a href="https://github.com/wyhuai/NeRFocus">Code</a>
