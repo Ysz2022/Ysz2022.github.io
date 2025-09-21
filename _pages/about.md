@@ -140,7 +140,7 @@ d4vd_stop()
 </script>
 </td>
 <td valign="top" width="80%">
-  <a href="https://arxiv.org/abs/2312.08882">
+  <a href="https://arxiv.org/abs/2508.04467">
     <papertitle_just>4DVD: Cascaded Dense-view Video Diffusion Model for High-quality 4D Content Generation</papertitle_just>     
   </a>
   <br>
