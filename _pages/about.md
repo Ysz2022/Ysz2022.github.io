@@ -368,6 +368,8 @@ nerfocus_stop()
 </tbody></table>
 
 
+# 🏆 Honors
+
 # 💻 Academic Services
 - Journal Reviewer:
   - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
