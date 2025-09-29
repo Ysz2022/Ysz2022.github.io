@@ -368,7 +368,8 @@ nerfocus_stop()
 </tbody></table>
 
 
-# 🏆 Honors
+# 🏆 Selected Honors
+- Peking University May Fourth Scholarship (Annual <font color=red>Highest Honor</font>)      [2025]
 
 # 💻 Academic Services
 - Journal Reviewer:
