@@ -369,7 +369,8 @@ nerfocus_stop()
 
 
 # 🏆 Selected Honors
-- Peking University May Fourth Scholarship (Annual <font color=red>Highest Honor</font>)      [2025]
+- Peking University May Fourth Scholarship. (Annual <font color=red>Highest Honor</font>) <p align="left">[2025]</p>
+- The First Class Excellence Scholarship at Dalian University of Technology. (Top <font color=red>5\%</font>) <p align="left">[2019-2021]</p>
 
 # 💻 Academic Services
 - Journal Reviewer:
