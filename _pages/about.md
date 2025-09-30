@@ -386,9 +386,9 @@ nerfocus_stop()
 # 🏆 Selected Honors
 <table width="100%" cellspacing="0" cellpadding="5">
   <tr>
-    <td width="2%" align="left">•</td>
+    <td width="2%" align="left"> •</td>
     <td align="left">Peking University May Fourth Scholarship. (Annual <font color=GoldenRod>Highest Honor</font>)</td>
-    <td align="right" width="20%">[2025]</td>
+    <td align="right" width="13%">[2025]</td>
   </tr>
   <tr>
     <td align="left">•</td>
