@@ -183,6 +183,8 @@ fourier123_stop()
 <em>Visual Intelligence (<font color=GoldenRod>VI</font>)</em> [<font color=GoldenRod>J</font>], 2025 <br>
 <a href="https://arxiv.org/abs/2405.20669">arXiv</a>
 |
+<a href="https://link.springer.com/article/10.1007/s44267-025-00089-8">Paper</a>
+|
 <a href="https://fourier1-to-3.github.io/">Project Page</a>
 |
 <a href="https://github.com/Ysz2022/Fourier123">Code<img src="https://img.shields.io/github/stars/Ysz2022/Fourier123?style=social&label=Stars"></a>
