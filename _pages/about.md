@@ -383,7 +383,7 @@ nerfocus_stop()
 - Sep'2022-Jul'2027: Ph.D. (Computer Science), <img src="/files/PKU.png" alt="PKU" width="20.842" height="20"> Peking University
 - Sep'2018-Jul'2022: B.Eng (Software Engineering), <img src="/files/DLUT.png" alt="DLUT" width="20.842" height="20"> Dalian University of Technology
 
-# 🏆 Selected Honors
-- [2025] Peking University May Fourth Scholarship. (Annual Highest Honor)
+# 🎖️ Selected Honors
+- [2025] Peking University May Fourth Scholarship. (Highest Honor) 🏆
 - [2023&2025] Outstanding Student Award at Peking University.
 - [2019-2021] The First Class Excellence Scholarship at Dalian University of Technology. (Top 5%)
