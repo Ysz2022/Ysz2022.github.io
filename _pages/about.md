@@ -378,6 +378,7 @@ nerfocus_stop()
   - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
   - ACM Transactions on Multimedia Computing, Communications and Applications (TOMM)
   - IEEE Journal of Selected Topics in Signal Processing (JSTSP)
+- Conference Reviewer: CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, Siggraph, AAAI, etc.
 
 # 🎖️ Selected Honors
 - [2025] Peking University May Fourth Scholarship. 🏆️
