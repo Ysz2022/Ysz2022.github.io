@@ -117,7 +117,7 @@ gencompositor_stop()
 |
 <a href="https://github.com/TencentARC/GenCompositor">Code<img src="https://img.shields.io/github/stars/TencentARC/GenCompositor?style=social&label=Stars"></a>
 <p></p>
-<p>The prioneer work that enables effortlessly compositing different videos guided by user-specified trajectories and scales.</p>
+<p>Adaptively compositing videos guided by user-specified trajectories and scales.</p>
 </td>
 </tr>
 <!-- ###################################################################################################-->
