@@ -383,7 +383,7 @@ nerfocus_stop()
 # 🎖️ Selected Honors
 - [2025] Peking University May Fourth Scholarship. 🏆️
 - [2023&2025] Outstanding Student Award at Peking University.
-- [2019-2021] The First Class Excellence Scholarship at Dalian University of Technology.
+- [2019-2021] First Class Excellent Scholarship at Dalian University of Technology.
 
 # 🏫 Educations
 - Sep'2022-Jul'2027: Ph.D. (Computer Science), <img src="/files/PKU.png" alt="PKU" width="20.842" height="20"> Peking University
