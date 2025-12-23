@@ -322,7 +322,7 @@ sepc_stop()
     <papertitle_just>Multi-scale Synergism Ensemble Progressive and Contrastive Investigation for Image Restoration</papertitle_just>     
   </a>
   <br>
-  Zhiying Jiang†, <strong>Shuzhou Yang</strong>†, Jinyuan Liu, Xin Fan, Risheng Liu*.
+  <strong>Shuzhou Yang</strong>†, Zhiying Jiang†, Jinyuan Liu, Xin Fan, Risheng Liu*.
   <br>
 <em>IEEE Transactions on Instrumentation and Measurement (<font color=GoldenRod>TIM</font>)</em> [<font color=GoldenRod>J</font>], 2023 <br>
 <a href="https://ieeexplore.ieee.org/document/10363208">Paper</a>
