@@ -110,7 +110,7 @@ gencompositor_stop()
   <br>
   <strong>Shuzhou Yang</strong>, Xiaoyu Li, Xiaodong Cun, Guangzhi Wang, Lingen Li, Ying Shan, Jian Zhang*.
   <br>
-<em>International Conference on Learning Representations (<font color=GoldenRod>ICLR</font>)</em> [<font color=GoldenRod>C</font>], 2025 <br>
+<em>International Conference on Learning Representations (<font color=GoldenRod>ICLR</font>)</em> [<font color=GoldenRod>C</font>], 2026 <br>
 <a href="https://arxiv.org/abs/2509.02460">arXiv</a>
 |
 <a href="https://gencompositor.github.io/">Project Page</a>
