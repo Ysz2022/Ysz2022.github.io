@@ -187,6 +187,8 @@ fourier123_stop()
 |
 <a href="https://fourier1-to-3.github.io/">Project Page</a>
 |
+<a href="https://mp.weixin.qq.com/s/YKnPYiXQ9vPCvSpP0HlfEQ">Social Media</a>
+|
 <a href="https://github.com/Ysz2022/Fourier123">Code<img src="https://img.shields.io/github/stars/Ysz2022/Fourier123?style=social&label=Stars"></a>
 <p></p>
 <p>Using both 2D and 3D diffusion models to generate 3D asset from a single image with hybrid fourier score distillation.</p>
@@ -223,6 +225,8 @@ nvedit_stop()
 |
 <a href="https://nvedit.github.io/">Project Page</a>
 |
+<a href="https://mp.weixin.qq.com/s/ToWC_PAXwBPW0dkWrPB1MA">Social Media</a>
+|
 <a href="https://github.com/Ysz2022/NVEdit">Code<img src="https://img.shields.io/github/stars/Ysz2022/NVEdit?style=social&label=Stars"></a>
 <p></p>
 <p>Editing long videos coherently via neural video fields.</p>
@@ -258,6 +262,8 @@ difflle_stop()
 <a href="https://arxiv.org/abs/2308.09279">arXiv</a>
 |
 <a href="https://link.springer.com/article/10.1007/s11263-024-02292-4">Paper</a>
+|
+<a href="https://mp.weixin.qq.com/s/rhVQDkAYrdZTnk0AvXZw_Q">Social Media</a>
 <p></p>
 <p>Bridge the gap between real scenes and training data by diffusion model prior.</p>
 </td>
@@ -292,6 +298,8 @@ nerco_stop()
 <a href="https://arxiv.org/abs/2303.11722">arXiv</a>
 |
 <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Yang_Implicit_Neural_Representation_for_Cooperative_Low-light_Image_Enhancement_ICCV_2023_paper.html">Paper</a>
+|
+<a href="https://mp.weixin.qq.com/s/sxSGEikI8cwGPzOdjl40wg">Social Media</a>
 |
 <a href="https://github.com/Ysz2022/NeRCo">Code<img src="https://img.shields.io/github/stars/Ysz2022/NeRCo?style=social&label=Stars"></a>
 <p></p>
