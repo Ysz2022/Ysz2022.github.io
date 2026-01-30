@@ -113,6 +113,8 @@ gencompositor_stop()
 <em>International Conference on Learning Representations (<font color=GoldenRod>ICLR</font>)</em> [<font color=GoldenRod>C</font>], 2026 <br>
 <a href="https://arxiv.org/abs/2509.02460">arXiv</a>
 |
+<a href="https://openreview.net/forum?id=ynim5u2N4i">Paper</a>
+|
 <a href="https://gencompositor.github.io/">Project Page</a>
 |
 <a href="https://mp.weixin.qq.com/s/WuLBrq5jEOusV20PXREYWA">Social Media</a>
