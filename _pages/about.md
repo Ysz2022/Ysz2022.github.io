@@ -115,6 +115,8 @@ gencompositor_stop()
 |
 <a href="https://gencompositor.github.io/">Project Page</a>
 |
+<a href="https://mp.weixin.qq.com/s/WuLBrq5jEOusV20PXREYWA">Social Media</a>
+|
 <a href="https://github.com/TencentARC/GenCompositor">Code<img src="https://img.shields.io/github/stars/TencentARC/GenCompositor?style=social&label=Stars"></a>
 <p></p>
 <p>Adaptively compositing videos guided by user-specified trajectories and scales.</p>
