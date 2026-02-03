@@ -104,7 +104,7 @@ gencompositor_stop()
 </script>
 </td>
 <td valign="top" width="80%">
-  <a href="https://arxiv.org/abs/2509.02460">
+  <a href="https://openreview.net/forum?id=ynim5u2N4i">
     <papertitle_just>GenCompositor: Generative Video Compositing with Diffusion Transformer</papertitle_just>     
   </a>
   <br>
@@ -178,7 +178,7 @@ fourier123_stop()
 </script>
 </td>
 <td valign="top" width="80%">
-  <a href="https://arxiv.org/abs/2405.20669">
+  <a href="https://link.springer.com/article/10.1007/s44267-025-00089-8">
     <papertitle_just>Hybrid Fourier Score Distillation for Efficient One Image to 3D Object Generation</papertitle_just>     
   </a>
   <br>
