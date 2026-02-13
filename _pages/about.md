@@ -393,17 +393,7 @@ nerfocus_stop()
 - Conference Reviewer: CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, Siggraph, AAAI, etc.
 - Teaching assistant for computer vision course at School of Electronic and Computer Engineering, Peking University, 2023.
 
-# 🎖️ Selected Honors
-- [2025] Peking University May Fourth Scholarship. 🏆️
-- [2023-2025] Outstanding Student Award at Peking University.
-- [2019-2021] First Class Excellent Scholarship at Dalian University of Technology.
-
-# 🏫 Educations
-- Sep'2022-Jul'2027: Ph.D. (Computer Science), <img src="/images/logo/PKU.png" alt="PKU" width="20.842" height="20"> Peking University
-- Sep'2018-Jul'2022: B.Eng (Software Engineering), <img src="/images/logo/DLUT.png" alt="DLUT" width="20.842" height="20"> Dalian University of Technology
-
 # 🔬 Experience
-
 <div class="experience-box">
     <div class="experience-box-logo">
         <img src="/images/logo/tencent_arc_lab.png" alt="Tencent ARC Lab Logo" width="42" height="40"> <strong>2025.01 - now</strong>
@@ -417,10 +407,9 @@ nerfocus_stop()
 
 <div class="experience-box">
     <div class="experience-box-logo">
-        <img src="/images/logo/tencent_ai_lab.png" alt="Tencent AI Lab Logo" width="42" height="40">
+        <img src="/images/logo/tencent_ai_lab.png" alt="Tencent AI Lab Logo" width="42" height="40"> <strong>2024.04 - 2024.12</strong>
     </div>
     <div class="experience-box-text">
-        <p><strong>2024.04 - 2024.12</strong></p>
         <p>Student Researcher at <a href="https://ailab.tencent.com/ailab/en/index/">Tencent AI Lab</a>, Shenzhen, China</p>
         <p>Novel View Video Generation</p>
         <p>Advisor: Prof. <a href="https://vinthony.github.io/academic/">Xiaodong Cun</a></p>
@@ -428,3 +417,12 @@ nerfocus_stop()
 </div>
 
 <span class='anchor' id='talks'></span>
+
+# 🎖️ Selected Honors
+- [2025] Peking University May Fourth Scholarship. 🏆️
+- [2023-2025] Outstanding Student Award at Peking University.
+- [2019-2021] First Class Excellent Scholarship at Dalian University of Technology.
+
+# 🏫 Educations
+- Sep'2022-Jul'2027: Ph.D. (Computer Science), <img src="/images/logo/PKU.png" alt="PKU" width="20.842" height="20"> Peking University
+- Sep'2018-Jul'2022: B.Eng (Software Engineering), <img src="/images/logo/DLUT.png" alt="DLUT" width="20.842" height="20"> Dalian University of Technology
