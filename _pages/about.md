@@ -397,7 +397,7 @@ nerfocus_stop()
 - Jan'2025 - now: Student Researcher at <img src="/images/logo/tencent_arc_lab.png" alt="Tencent ARC Lab Logo" width="20.842" height="20"> <a href="https://arc.tencent.com/en/index">Tencent ARC Lab</a>, Shenzhen, China
   - Video Editing and Generation
   - Advisor: Prof. <a href="https://xiaoyu258.github.io/">Xiaoyu Li</a>
--Apr'2024 - Dec'2024: Student Researcher at <img src="/images/logo/tencent_ai_lab.png" alt="Tencent AI Lab Logo" width="20.842" height="20"> <a href="https://ailab.tencent.com/ailab/en/index/">Tencent AI Lab</a>, Shenzhen, China
+- Apr'2024 - Dec'2024: Student Researcher at <img src="/images/logo/tencent_ai_lab.png" alt="Tencent AI Lab Logo" width="20.842" height="20"> <a href="https://ailab.tencent.com/ailab/en/index/">Tencent AI Lab</a>, Shenzhen, China
   - Novel View Video Generation
   - Advisor: Prof. <a href="https://vinthony.github.io/academic/">Xiaodong Cun</a>
 
