@@ -394,27 +394,12 @@ nerfocus_stop()
 - Teaching assistant for computer vision course at School of Electronic and Computer Engineering, Peking University, 2023.
 
 # 🔬 Experience
-<div class="experience-box">
-    <div class="experience-box-logo">
-        <img src="/images/logo/tencent_arc_lab.png" alt="Tencent ARC Lab Logo" width="42" height="40"> <strong>2025.01 - now</strong>
-    </div>
-    <div class="experience-box-text">
-        <p>Student Researcher at <a href="https://arc.tencent.com/en/index">Tencent ARC Lab</a>, Shenzhen, China</p>
-        <p>Video Editing and Generation</p>
-        <p>Advisor: Prof. <a href="https://xiaoyu258.github.io/">Xiaoyu Li</a></p>
-    </div>
-</div>
-
-<div class="experience-box">
-    <div class="experience-box-logo">
-        <img src="/images/logo/tencent_ai_lab.png" alt="Tencent AI Lab Logo" width="42" height="40"> <strong>2024.04 - 2024.12</strong>
-    </div>
-    <div class="experience-box-text">
-        <p>Student Researcher at <a href="https://ailab.tencent.com/ailab/en/index/">Tencent AI Lab</a>, Shenzhen, China</p>
-        <p>Novel View Video Generation</p>
-        <p>Advisor: Prof. <a href="https://vinthony.github.io/academic/">Xiaodong Cun</a></p>
-    </div>
-</div>
+- Jan'2025 - now: Student Researcher at <img src="/images/logo/tencent_arc_lab.png" alt="Tencent ARC Lab Logo" width="20.842" height="20"> <a href="https://arc.tencent.com/en/index">Tencent ARC Lab</a>, Shenzhen, China
+  - Video Editing and Generation
+  - Advisor: Prof. <a href="https://xiaoyu258.github.io/">Xiaoyu Li</a>
+-Apr'2024 - Dec'2024: Student Researcher at <img src="/images/logo/tencent_ai_lab.png" alt="Tencent AI Lab Logo" width="20.842" height="20"> <a href="https://ailab.tencent.com/ailab/en/index/">Tencent AI Lab</a>, Shenzhen, China
+  - Novel View Video Generation
+  - Advisor: Prof. <a href="https://vinthony.github.io/academic/">Xiaodong Cun</a>
 
 <span class='anchor' id='talks'></span>
 
@@ -424,5 +409,5 @@ nerfocus_stop()
 - [2019-2021] First Class Excellent Scholarship at Dalian University of Technology.
 
 # 🏫 Educations
-- Sep'2022-Jul'2027: Ph.D. (Computer Science), <img src="/images/logo/PKU.png" alt="PKU" width="20.842" height="20"> Peking University
-- Sep'2018-Jul'2022: B.Eng (Software Engineering), <img src="/images/logo/DLUT.png" alt="DLUT" width="20.842" height="20"> Dalian University of Technology
+- Sep'2022 - Jul'2027: Ph.D. (Computer Science), <img src="/images/logo/PKU.png" alt="PKU" width="20.842" height="20"> Peking University
+- Sep'2018 - Jul'2022: B.Eng (Software Engineering), <img src="/images/logo/DLUT.png" alt="DLUT" width="20.842" height="20"> Dalian University of Technology
