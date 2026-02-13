@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am a 4th-year Ph.D. student in Computer Science, School of Electronic and Computer Engineering, <img src="/images/logo/PKU.png" alt="PKU" width="20.842" height="20"> Peking University, supervised by [Prof. Jian Zhang](https://jianzhang.tech/). Previously, I received my B.Eng degree of software engineering from <img src="/images/logo/DLUT.png" alt="DLUT" width="20.842" height="20"> Dalian University of Technology in 2022. During my undergraduate studies, I am privileged to work closely with [Prof. Risheng Liu](https://rsliu.tech/) and [Prof. Xin Fan](https://scholar.google.com/citations?user=vLN1njoAAAAJ&hl=zh-CN) in the field of low-level vision.
+Currently, I am a 4th-year Ph.D. student in Computer Science, School of Electronic and Computer Engineering, <img src="/images/logo/PKU.png" alt="PKU" width="20.842" height="20"> Peking University, supervised by [Prof. Jian Zhang](https://jianzhang.tech/). Previously, I received my B.Eng degree of software engineering from <img src="/images/logo/DLUT.png" alt="DLUT" width="20.842" height="20"> Dalian University of Technology in 2022. I have led several interesting projects on video editing, novel view synthesis, and low-level vision, and have complished 10 papers as the first author, with over a thousand citations on Google Scholar. My main research interests include computer vision, diffusion models, and machine learning, primarily focusing on video-related Artificial Intelligence Generated Content (AIGC). Most recently, my main research topic is multimodal video generation. **I'm open to opportunities** and please feel free to get in touch via email: szyang AT stu DOT pku DOT edu DOT cn
 
-My main research interests include computer vision, diffusion models, and machine learning, primarily focusing on video-related Artificial Intelligence Generated Content (AIGC). I have led several interesting projects on video editing, novel view synthesis, and low-level vision, and have complished 9 papers as the first author, with over a thousand citations on Google Scholar. Most recently, my main research topic is multimodal video generation and interactive world model. **I'm open to opportunities** and please feel free to get in touch via email: szyang AT stu DOT pku DOT edu DOT cn
+
 
 # 📜 Research Area
 1. Video-related AIGC
