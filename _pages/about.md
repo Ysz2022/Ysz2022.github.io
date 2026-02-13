@@ -406,10 +406,9 @@ nerfocus_stop()
 
 <div class="experience-box">
     <div class="experience-box-logo">
-        <img src="/images/logo/tencent_arc_lab.png" alt="Tencent ARC Lab Logo" width="42" height="40">
+        <img src="/images/logo/tencent_arc_lab.png" alt="Tencent ARC Lab Logo" width="42" height="40"> <strong>2025.01 - now</strong>
     </div>
     <div class="experience-box-text">
-        <p><strong>2025.01 - now</strong></p>
         <p>Student Researcher at <a href="https://arc.tencent.com/en/index">Tencent ARC Lab</a>, Shenzhen, China</p>
         <p>Video Editing and Generation</p>
         <p>Advisor: Prof. <a href="https://xiaoyu258.github.io/">Xiaoyu Li</a></p>
