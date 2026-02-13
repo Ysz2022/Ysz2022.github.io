@@ -401,3 +401,29 @@ nerfocus_stop()
 # 🏫 Educations
 - Sep'2022-Jul'2027: Ph.D. (Computer Science), <img src="/images/logo/PKU.png" alt="PKU" width="20.842" height="20"> Peking University
 - Sep'2018-Jul'2022: B.Eng (Software Engineering), <img src="/images/logo/DLUT.png" alt="DLUT" width="20.842" height="20"> Dalian University of Technology
+
+# 🔬 Internships
+
+<div class="experience-box">
+    <div class="experience-box-logo">
+        <img src="images/logo/tencent_arc_lab.png" alt="Tencent ARC Lab Logo">
+    </div>
+    <div class="experience-box-text">
+        <p><strong>2025.01 - now</strong></p>
+        <p>Student Researcher at <a href="https://arc.tencent.com/en/index">Tencent ARC Lab</a>, Shenzhen, China</p>
+        <p>Advisor: Prof. <a href="https://xiaoyu258.github.io/">Xiaoyu Li</a></p>
+    </div>
+</div>
+
+<div class="experience-box">
+    <div class="experience-box-logo">
+        <img src="images/logo/tencent_ai_lab.png" alt="Tencent AI Lab Logo">
+    </div>
+    <div class="experience-box-text">
+        <p><strong>2024.04 - 2024.12</strong></p>
+        <p>Student Researcher at <a href="https://ailab.tencent.com/ailab/en/index/">Tencent AI Lab</a>, Shenzhen, China</p>
+        <p>Advisor: Prof. <a href="https://vinthony.github.io/academic/">Xiaodong Cun</a></p>
+    </div>
+</div>
+
+<span class='anchor' id='talks'></span>
