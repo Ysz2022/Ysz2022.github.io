@@ -402,7 +402,7 @@ nerfocus_stop()
 - Sep'2022-Jul'2027: Ph.D. (Computer Science), <img src="/images/logo/PKU.png" alt="PKU" width="20.842" height="20"> Peking University
 - Sep'2018-Jul'2022: B.Eng (Software Engineering), <img src="/images/logo/DLUT.png" alt="DLUT" width="20.842" height="20"> Dalian University of Technology
 
-# 🔬 Internships
+# 🔬 Experience
 
 <div class="experience-box">
     <div class="experience-box-logo">
