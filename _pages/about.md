@@ -411,6 +411,7 @@ nerfocus_stop()
     <div class="experience-box-text">
         <p><strong>2025.01 - now</strong></p>
         <p>Student Researcher at <a href="https://arc.tencent.com/en/index">Tencent ARC Lab</a>, Shenzhen, China</p>
+        <p>Video Editing and Generation</p>
         <p>Advisor: Prof. <a href="https://xiaoyu258.github.io/">Xiaoyu Li</a></p>
     </div>
 </div>
@@ -422,6 +423,7 @@ nerfocus_stop()
     <div class="experience-box-text">
         <p><strong>2024.04 - 2024.12</strong></p>
         <p>Student Researcher at <a href="https://ailab.tencent.com/ailab/en/index/">Tencent AI Lab</a>, Shenzhen, China</p>
+        <p>Novel View Video Generation</p>
         <p>Advisor: Prof. <a href="https://vinthony.github.io/academic/">Xiaodong Cun</a></p>
     </div>
 </div>
