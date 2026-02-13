@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am a 4th-year Ph.D. student in Computer Science, School of Electronic and Computer Engineering, <img src="/images/logo/PKU.png" alt="PKU" width="20.842" height="20"> Peking University, supervised by [Prof. Jian Zhang](https://jianzhang.tech/). Previously, I received my B.Eng degree of software engineering from <img src="/images/logo/DLUT.png" alt="DLUT" width="20.842" height="20"> Dalian University of Technology in 2022. I have led several interesting projects on video editing, novel view synthesis, and low-level vision, and have complished 10 papers as the first author, with over a thousand citations on Google Scholar. My main research interests include computer vision, diffusion models, and machine learning, primarily focusing on video-related Artificial Intelligence Generated Content (AIGC). Most recently, my main research topic is multimodal video generation. **I'm open to opportunities** and please feel free to get in touch via email: szyang AT stu DOT pku DOT edu DOT cn
+Currently, I am a 4th-year Ph.D. student in Computer Science, School of Electronic and Computer Engineering, <img src="/images/logo/PKU.png" alt="PKU" width="20.842" height="20"> Peking University, supervised by [Prof. Jian Zhang](https://jianzhang.tech/). Previously, I received my B.Eng degree of software engineering from <img src="/images/logo/DLUT.png" alt="DLUT" width="20.842" height="20"> Dalian University of Technology in 2022. I have led several interesting projects on video editing, novel view synthesis, and low-level vision, and have complished 10 papers as the first author, with over a thousand citations on Google Scholar. My main research interests include computer vision, diffusion models, and machine learning, primarily focusing on video-related Artificial Intelligence Generated Content (AIGC). Most recently, my main research topic is multimodal video generation. **I'm open to opportunities for research intern** and please feel free to get in touch via email: szyang AT stu DOT pku DOT edu DOT cn
 
 
 
@@ -155,7 +155,7 @@ d4vd_stop()
 |
 <a href="https://4dvd.github.io/">Project Page</a>
 <p></p>
-<p>Generating dense-view videos through cascaded diffusion model.</p>
+<p>Generating dense multi-view videos through cascaded diffusion model.</p>
 </td>
 </tr>
 <!-- ###################################################################################################-->
@@ -397,7 +397,7 @@ nerfocus_stop()
 - <img src="/images/logo/tencent_arc_lab.png" alt="Tencent ARC Lab Logo" width="21.842" height="21"> [Tencent ARC Lab](https://arc.tencent.com/en/index), Shenzhen, China
   - Jan'2025 - now
   - Research Intern in Video Editing and Generation
-  - Advisor: Prof. <a href="https://xiaoyu258.github.io/">Xiaoyu Li</a>
+  - Advisor: Dr. <a href="https://xiaoyu258.github.io/">Xiaoyu Li</a>
 - <img src="/images/logo/tencent_ai_lab.png" alt="Tencent AI Lab Logo" width="19.842" height="19"> [Tencent AI Lab](https://ailab.tencent.com/ailab/en/index/), Shenzhen, China
   - Apr'2024 - Dec'2024
   - Research Intern in Novel View Video Generation
