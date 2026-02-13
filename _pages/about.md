@@ -394,11 +394,13 @@ nerfocus_stop()
 - Teaching assistant for computer vision course at School of Electronic and Computer Engineering, Peking University, 2023.
 
 # 🔬 Experience
-- Jan'2025 - now: Student Researcher at <img src="/images/logo/tencent_arc_lab.png" alt="Tencent ARC Lab Logo" width="20.842" height="20"> <a href="https://arc.tencent.com/en/index">Tencent ARC Lab</a>, Shenzhen, China
-  - Video Editing and Generation
+- <img src="/images/logo/tencent_arc_lab.png" alt="Tencent ARC Lab Logo" width="20.842" height="20"> <a href="https://arc.tencent.com/en/index">Tencent ARC Lab</a>, Shenzhen, China
+  - Jan'2025 - now
+  - Research Intern in Video Editing and Generation
   - Advisor: Prof. <a href="https://xiaoyu258.github.io/">Xiaoyu Li</a>
-- Apr'2024 - Dec'2024: Student Researcher at <img src="/images/logo/tencent_ai_lab.png" alt="Tencent AI Lab Logo" width="20.842" height="20"> <a href="https://ailab.tencent.com/ailab/en/index/">Tencent AI Lab</a>, Shenzhen, China
-  - Novel View Video Generation
+- <img src="/images/logo/tencent_ai_lab.png" alt="Tencent AI Lab Logo" width="20.842" height="20"> <a href="https://ailab.tencent.com/ailab/en/index/">Tencent AI Lab</a>, Shenzhen, China
+  - Apr'2024 - Dec'2024
+  - Research Intern in Novel View Video Generation
   - Advisor: Prof. <a href="https://vinthony.github.io/academic/">Xiaodong Cun</a>
 
 <span class='anchor' id='talks'></span>
