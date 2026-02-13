@@ -406,7 +406,7 @@ nerfocus_stop()
 
 <div class="experience-box">
     <div class="experience-box-logo">
-        <img src="/images/logo/tencent_arc_lab.png" alt="Tencent ARC Lab Logo">
+        <img src="/images/logo/tencent_arc_lab.png" alt="Tencent ARC Lab Logo" width="42" height="40">
     </div>
     <div class="experience-box-text">
         <p><strong>2025.01 - now</strong></p>
@@ -418,7 +418,7 @@ nerfocus_stop()
 
 <div class="experience-box">
     <div class="experience-box-logo">
-        <img src="/images/logo/tencent_ai_lab.png" alt="Tencent AI Lab Logo">
+        <img src="/images/logo/tencent_ai_lab.png" alt="Tencent AI Lab Logo" width="42" height="40">
     </div>
     <div class="experience-box-text">
         <p><strong>2024.04 - 2024.12</strong></p>
