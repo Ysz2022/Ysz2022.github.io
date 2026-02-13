@@ -394,7 +394,7 @@ nerfocus_stop()
 - Teaching assistant for computer vision course at School of Electronic and Computer Engineering, Peking University, 2023.
 
 # 🔬 Experience
-- <img src="/images/logo/tencent_arc_lab.png" alt="Tencent ARC Lab Logo" width="20.842" height="20"> [Tencent ARC Lab](https://arc.tencent.com/en/index), Shenzhen, China
+- <img src="/images/logo/tencent_arc_lab.png" alt="Tencent ARC Lab Logo" width="21.842" height="21"> [Tencent ARC Lab](https://arc.tencent.com/en/index), Shenzhen, China
   - Jan'2025 - now
   - Research Intern in Video Editing and Generation
   - Advisor: Prof. <a href="https://xiaoyu258.github.io/">Xiaoyu Li</a>
