@@ -381,6 +381,17 @@ nerfocus_stop()
 <!-- ###################################################################################################-->
 </tbody></table>
 
+# 🔬 Experience
+- <img src="/images/logo/tencent_arc_lab.png" alt="Tencent ARC Lab Logo" width="21.842" height="21"> [Tencent ARC Lab](https://arc.tencent.com/en/index), Shenzhen, China
+  - Jan'2025 - now
+  - Research Intern in Video Editing and Generation
+  - Advisor: Dr. <a href="https://xiaoyu258.github.io/">Xiaoyu Li</a> & Prof. <a href="https://vinthony.github.io/academic/">Xiaodong Cun</a>
+- <img src="/images/logo/tencent_ai_lab.png" alt="Tencent AI Lab Logo" width="19.842" height="19"> [Tencent AI Lab](https://ailab.tencent.com/ailab/en/index/), Shenzhen, China
+  - Apr'2024 - Dec'2024
+  - Research Intern in Novel View Video Generation
+  - Advisor: Prof. <a href="https://vinthony.github.io/academic/">Xiaodong Cun</a>
+
+  
 # 💻 Academic Services
 - Journal Reviewer:
   - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
@@ -393,22 +404,12 @@ nerfocus_stop()
 - Conference Reviewer: CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, Siggraph, AAAI, etc.
 - Teaching assistant for computer vision course at School of Electronic and Computer Engineering, Peking University, 2023.
 
-# 🔬 Experience
-- <img src="/images/logo/tencent_arc_lab.png" alt="Tencent ARC Lab Logo" width="21.842" height="21"> [Tencent ARC Lab](https://arc.tencent.com/en/index), Shenzhen, China
-  - Jan'2025 - now
-  - Research Intern in Video Editing and Generation
-  - Advisor: Dr. <a href="https://xiaoyu258.github.io/">Xiaoyu Li</a>
-- <img src="/images/logo/tencent_ai_lab.png" alt="Tencent AI Lab Logo" width="19.842" height="19"> [Tencent AI Lab](https://ailab.tencent.com/ailab/en/index/), Shenzhen, China
-  - Apr'2024 - Dec'2024
-  - Research Intern in Novel View Video Generation
-  - Advisor: Prof. <a href="https://vinthony.github.io/academic/">Xiaodong Cun</a>
-
-<span class='anchor' id='talks'></span>
 
 # 🎖️ Selected Honors
 - [2025] Peking University May Fourth Scholarship. 🏆️
 - [2023-2025] Outstanding Student Award at Peking University.
 - [2019-2021] First Class Excellent Scholarship at Dalian University of Technology.
+
 
 # 🏫 Educations
 - Sep'2022 - Jul'2027: Ph.D. (Computer Science), <img src="/images/logo/PKU.png" alt="PKU" width="20.842" height="20"> [Peking University](https://www.pku.edu.cn/)
