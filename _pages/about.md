@@ -381,7 +381,7 @@ nerfocus_stop()
 <!-- ###################################################################################################-->
 </tbody></table>
 
-# 🔬 Experience
+# 👔 Experience
 - <img src="/images/logo/tencent_arc_lab.png" alt="Tencent ARC Lab Logo" width="21.842" height="21"> [Tencent ARC Lab](https://arc.tencent.com/en/index), Shenzhen, China
   - Jan'2025 - now
   - Research Intern in Video Editing and Generation
