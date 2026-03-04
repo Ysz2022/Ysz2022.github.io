@@ -384,11 +384,11 @@ nerfocus_stop()
 
 # 👔 Experience
 - <img src="/images/logo/tencent.png" alt="Tencent" width="85" height="20"> <img src="/images/logo/tencent_arc_lab.png" alt="ARC Lab Logo" width="21.842" height="21"> [ARC Lab](https://arc.tencent.com/en/index), Shenzhen, China
-  - Jan'2025 - Present
+  - Dec'2024 - Present
   - Research Intern in Video Editing and Generation
   - Advisor: Dr. <a href="https://xiaoyu258.github.io/">Xiaoyu Li</a> & Prof. <a href="https://vinthony.github.io/academic/">Xiaodong Cun</a>
 - <img src="/images/logo/tencent.png" alt="Tencent" width="85" height="20"> <img src="/images/logo/tencent_ai_lab.png" alt="AI Lab Logo" width="19.842" height="19"> [AI Lab](https://ailab.tencent.com/ailab/en/index/), Shenzhen, China
-  - Apr'2024 - Dec'2024
+  - Apr'2024 - Nov'2024
   - Research Intern in Novel View Video Generation
   - Advisor: Prof. <a href="https://vinthony.github.io/academic/">Xiaodong Cun</a>
 
