@@ -412,6 +412,9 @@ nerfocus_stop()
 - [2019-2021] First Class Excellent Scholarship at Dalian University of Technology.
 
 
-# 🏫 Educations
+# 🎓 Educations
 - Sep'2022 - Jul'2027: Ph.D. (Computer Science), <img src="/images/logo/PKU.png" alt="PKU" width="20.842" height="20"> [Peking University](https://www.pku.edu.cn/)
 - Sep'2018 - Jul'2022: B.Eng (Software Engineering), <img src="/images/logo/DLUT.png" alt="DLUT" width="20.842" height="20"> [Dalian University of Technology](https://en.dlut.edu.cn/)
+
+# 🏫 Life
+- If you are looking for talent student on VLA model, please checkout my talented&handsome friend [Lingen Li](https://lg-li.github.io/)
