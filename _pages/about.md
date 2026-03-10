@@ -418,4 +418,5 @@ nerfocus_stop()
 
 # ❤️ Life
 - If you are looking for talent student on VLA model, please checkout my handsome friend [Lingen Li](https://lg-li.github.io/)
-- I wanna attempt some other topic, world model or VLA, but I haven't decide...
+- I wanna attempt some other topics, world model or VLA, but I haven't decided yet...
+- Hope my journal submissions can be accepted as soon as possible 😇 (same to conference submission)
