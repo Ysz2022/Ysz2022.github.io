@@ -417,6 +417,6 @@ nerfocus_stop()
 - Sep'2018 - Jul'2022: B.Eng (Software Engineering), <img src="/images/logo/DLUT.png" alt="DLUT" width="20.842" height="20"> [Dalian University of Technology](https://en.dlut.edu.cn/)
 
 # ❤️ Life
-- If you are looking for talent student on VLA model, please checkout my group [VILLAer](https://villa.jianzhang.tech/)
+- If you are looking for talent student on VLA model, please checkout my firends [Lingen](https://lg-li.github.io/),[Wiki](https://scholar.google.com/citations?user=SIkQdEsAAAAJ&hl=zh-CN),[Winstone](https://scholar.google.com/citations?user=XlhADHoAAAAJ&hl=zh-CN),[Xuanyu](https://xuanyuzhang21.github.io/), and [NaN (who is handsome and professional in body-building)](https://scholar.google.com/citations?hl=zh-CN&user=FsQsnsQAAAAJ)
 - I wanna attempt some other topics, world model or VLA, but I haven't decided yet...
 - Hope my journal submissions can be accepted as soon as possible 😇 (same to conference submission)
