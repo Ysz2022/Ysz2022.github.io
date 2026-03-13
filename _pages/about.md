@@ -125,7 +125,45 @@ gencompositor_stop()
 </td>
 </tr>
 <!-- ###################################################################################################-->
-  
+
+<!-- ###################################################################################################-->
+<tr onmouseout="nvedit_stop()" onmouseover="nvedit_start()" >
+<td width="20%">
+<div class="one">
+<div class="two" id = 'nvedit_image'><img src='./files/nvedit_after.gif'></div>
+<img src='./files/nvedit_before.gif'>
+</div>
+<script type="text/javascript">
+function nvedit_start() {
+document.getElementById('nvedit_image').style.opacity = "1";
+}
+function nvedit_stop() {
+document.getElementById('nvedit_image').style.opacity = "0";
+}
+nvedit_stop()
+</script>
+</td>
+<td valign="top" width="80%">
+  <a href="https://arxiv.org/abs/2312.08882">
+    <papertitle_just>Neural Video Fields Editing</papertitle_just>     
+  </a>
+  <br>
+  <strong>Shuzhou Yang</strong>, Chong Mou, Jiwen Yu, Yuhan Wang, Xiandong Meng, Jian Zhang*.
+  <br>
+<em>Computational Visual Media (<font color=GoldenRod>CVMJ</font>)</em> [<font color=GoldenRod>J</font>], 2025 <br>
+<a href="https://arxiv.org/abs/2312.08882">arXiv</a>
+|
+<a href="https://nvedit.github.io/">Project Page</a>
+|
+<a href="https://mp.weixin.qq.com/s/ToWC_PAXwBPW0dkWrPB1MA">Social Media</a>
+|
+<a href="https://github.com/Ysz2022/NVEdit">Code<img src="https://img.shields.io/github/stars/Ysz2022/NVEdit?style=social&label=Stars"></a>
+<p></p>
+<p>Editing long videos coherently via neural video fields.</p>
+</td>
+</tr>
+<!-- ###################################################################################################-->
+
 <!-- ###################################################################################################-->
 <tr onmouseout="d4vd_stop()" onmouseover="d4vd_start()" >
 <td width="20%">
@@ -197,44 +235,6 @@ fourier123_stop()
 <a href="https://github.com/Ysz2022/Fourier123">Code<img src="https://img.shields.io/github/stars/Ysz2022/Fourier123?style=social&label=Stars"></a>
 <p></p>
 <p>Using both 2D and 3D diffusion models for image-to-3D generation with hybrid fourier score distillation.</p>
-</td>
-</tr>
-<!-- ###################################################################################################-->
-  
-<!-- ###################################################################################################-->
-<tr onmouseout="nvedit_stop()" onmouseover="nvedit_start()" >
-<td width="20%">
-<div class="one">
-<div class="two" id = 'nvedit_image'><img src='./files/nvedit_after.gif'></div>
-<img src='./files/nvedit_before.gif'>
-</div>
-<script type="text/javascript">
-function nvedit_start() {
-document.getElementById('nvedit_image').style.opacity = "1";
-}
-function nvedit_stop() {
-document.getElementById('nvedit_image').style.opacity = "0";
-}
-nvedit_stop()
-</script>
-</td>
-<td valign="top" width="80%">
-  <a href="https://arxiv.org/abs/2312.08882">
-    <papertitle_just>Neural Video Fields Editing</papertitle_just>     
-  </a>
-  <br>
-  <strong>Shuzhou Yang</strong>, Chong Mou, Jiwen Yu, Yuhan Wang, Xiandong Meng, Jian Zhang*.
-  <br>
-<em>Computational Visual Media (<font color=GoldenRod>CVMJ</font>)</em> [<font color=GoldenRod>J</font>], 2025 <br>
-<a href="https://arxiv.org/abs/2312.08882">arXiv</a>
-|
-<a href="https://nvedit.github.io/">Project Page</a>
-|
-<a href="https://mp.weixin.qq.com/s/ToWC_PAXwBPW0dkWrPB1MA">Social Media</a>
-|
-<a href="https://github.com/Ysz2022/NVEdit">Code<img src="https://img.shields.io/github/stars/Ysz2022/NVEdit?style=social&label=Stars"></a>
-<p></p>
-<p>Editing long videos coherently via neural video fields.</p>
 </td>
 </tr>
 <!-- ###################################################################################################-->
@@ -384,7 +384,7 @@ nerfocus_stop()
 
 # 👔 Experience
 - <img src="/images/logo/tencent.png" alt="Tencent" width="85" height="20"> <img src="/images/logo/tencent_arc_lab.png" alt="ARC Lab Logo" width="21.842" height="21"> [ARC Lab](https://arc.tencent.com/en/index), Shenzhen, China
-  - Dec'2024 - Present
+  - Dec'2024 - Feb'2026
   - Research Intern in Video Editing and Generation
   - Advisor: Dr. <a href="https://xiaoyu258.github.io/">Xiaoyu Li</a> & Prof. <a href="https://vinthony.github.io/academic/">Xiaodong Cun</a>
 - <img src="/images/logo/tencent.png" alt="Tencent" width="85" height="20"> <img src="/images/logo/tencent_ai_lab.png" alt="AI Lab Logo" width="19.842" height="19"> [AI Lab](https://ailab.tencent.com/ailab/en/index/), Shenzhen, China
@@ -415,8 +415,3 @@ nerfocus_stop()
 # 🎓 Educations
 - Sep'2022 - Jul'2027: Ph.D. (Computer Science), <img src="/images/logo/PKU.png" alt="PKU" width="20.842" height="20"> [Peking University](https://www.pku.edu.cn/)
 - Sep'2018 - Jul'2022: B.Eng (Software Engineering), <img src="/images/logo/DLUT.png" alt="DLUT" width="20.842" height="20"> [Dalian University of Technology](https://en.dlut.edu.cn/)
-
-# ❤️ Life
-- If you are looking for talent student, please checkout my firends [Lingen](https://lg-li.github.io/), [Wiki](https://scholar.google.com/citations?user=SIkQdEsAAAAJ&hl=zh-CN), [Winstone](https://scholar.google.com/citations?user=XlhADHoAAAAJ&hl=zh-CN), [Xuanyu](https://xuanyuzhang21.github.io/), and [YiNaN (who is handsome and professional in body-building)](https://scholar.google.com/citations?hl=zh-CN&user=FsQsnsQAAAAJ)
-- I wanna attempt some other topics, world model or VLA, but I haven't decided yet...
-- Hope my journal submissions can be accepted as soon as possible 😇 (same to conference submission)
