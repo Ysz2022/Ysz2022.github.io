@@ -85,7 +85,7 @@ Currently, I am a 4th-year Ph.D. student in Computer Science, School of Electron
 <!-- ################################  CONTENT START  ##################################################-->
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="10">
 <tbody>
-&ensp;Equal Contribution†, Corresponding Author*, [<font color=GoldenRod>J</font>] Journal, [<font color=GoldenRod>C</font>] Conference
+&ensp;Equal Contribution*, Corresponding Author†, Project Leader‡, [<font color=GoldenRod>J</font>] Journal, [<font color=GoldenRod>C</font>] Conference
 <!-- ###################################################################################################-->
 <tr onmouseout="gencompositor_stop()" onmouseover="gencompositor_start()" >
 <td width="20%">
@@ -108,7 +108,7 @@ gencompositor_stop()
     <papertitle_just>GenCompositor: Generative Video Compositing with Diffusion Transformer</papertitle_just>     
   </a>
   <br>
-  <strong>Shuzhou Yang</strong>, Xiaoyu Li, Xiaodong Cun, Guangzhi Wang, Lingen Li, Ying Shan, Jian Zhang*.
+  <strong>Shuzhou Yang</strong>, Xiaoyu Li‡, Xiaodong Cun, Guangzhi Wang, Lingen Li, Ying Shan, Jian Zhang†.
   <br>
 <em>International Conference on Learning Representations (<font color=GoldenRod>ICLR</font>)</em> [<font color=GoldenRod>C</font>], 2026 <br>
 <a href="https://arxiv.org/abs/2509.02460">arXiv</a>
@@ -148,7 +148,7 @@ d4vd_stop()
     <papertitle_just>4DVD: Cascaded Dense-view Video Diffusion Model for High-quality 4D Content Generation</papertitle_just>     
   </a>
   <br>
-  <strong>Shuzhou Yang</strong>, Xiaodong Cun, Xiaoyu Li*, Yaowei Li, Jian Zhang*.
+  <strong>Shuzhou Yang</strong>, Xiaodong Cun, Xiaoyu Li‡, Yaowei Li, Jian Zhang†.
   <br>
 <em>International Journal of Computer Vision (<font color=GoldenRod>IJCV</font>)</em> [<font color=GoldenRod>J</font>], 2026 <br>
 <!-- <em>International Journal of Computer Vision (<font color=GoldenRod>IJCV</font>)</em> [<font color=GoldenRod>J</font>], 2026 <br> -->
@@ -183,7 +183,7 @@ nvedit_stop()
     <papertitle_just>Neural Video Fields Editing</papertitle_just>     
   </a>
   <br>
-  <strong>Shuzhou Yang</strong>, Chong Mou, Jiwen Yu, Yuhan Wang, Xiandong Meng, Jian Zhang*.
+  <strong>Shuzhou Yang</strong>, Chong Mou, Jiwen Yu, Yuhan Wang, Xiandong Meng, Jian Zhang†.
   <br>
 <em>Computational Visual Media (<font color=GoldenRod>CVMJ</font>)</em> [<font color=GoldenRod>J</font>], 2025 <br>
 <a href="https://arxiv.org/abs/2312.08882">arXiv</a>
@@ -221,7 +221,7 @@ fourier123_stop()
     <papertitle_just>Hybrid Fourier Score Distillation for Efficient One Image to 3D Object Generation</papertitle_just>     
   </a>
   <br>
-  <strong>Shuzhou Yang</strong>, Yu Wang, Haijie Li, Jiarui Meng, Yanmin Wu, Xiandong Meng, Jian Zhang*.
+  <strong>Shuzhou Yang</strong>, Yu Wang, Haijie Li, Jiarui Meng, Yanmin Wu, Xiandong Meng, Jian Zhang†.
   <br>
 <em>Visual Intelligence (<font color=GoldenRod>VI</font>)</em> [<font color=GoldenRod>J</font>], 2025 <br>
 <a href="https://arxiv.org/abs/2405.20669">arXiv</a>
@@ -261,7 +261,7 @@ difflle_stop()
     <papertitle_just>DiffLLE: Diffusion-based Domain Calibration for Weak Supervised Low-light Image Enhancement</papertitle_just>     
   </a>
   <br>
-  <strong>Shuzhou Yang</strong>†, Xuanyu Zhang†, Yinhuai Wang, Jiwen Yu, Yuhan Wang, Jian Zhang*.
+  <strong>Shuzhou Yang</strong>*, Xuanyu Zhang*, Yinhuai Wang, Jiwen Yu, Yuhan Wang, Jian Zhang†.
   <br>
 <em>International Journal of Computer Vision (<font color=GoldenRod>IJCV</font>)</em> [<font color=GoldenRod>J</font>], 2024 <br>
 <a href="https://arxiv.org/abs/2308.09279">arXiv</a>
@@ -297,7 +297,7 @@ nerco_stop()
     <papertitle_just>Implicit Neural Representation for Cooperative Low-light Image Enhancement</papertitle_just>     
   </a>
   <br>
-  <strong>Shuzhou Yang</strong>, Moxuan Ding, Yanmin Wu, Zihan Li, Jian Zhang*.
+  <strong>Shuzhou Yang</strong>, Moxuan Ding, Yanmin Wu, Zihan Li, Jian Zhang†.
   <br>
 <em>International Conference on Computer Vision (<font color=GoldenRod>ICCV</font>)</em> [<font color=GoldenRod>C</font>], 2023 <br>
 <a href="https://arxiv.org/abs/2303.11722">arXiv</a>
@@ -335,7 +335,7 @@ sepc_stop()
     <papertitle_just>Multi-scale Synergism Ensemble Progressive and Contrastive Investigation for Image Restoration</papertitle_just>     
   </a>
   <br>
-  <strong>Shuzhou Yang</strong>†, Zhiying Jiang†, Jinyuan Liu, Xin Fan, Risheng Liu*.
+  <strong>Shuzhou Yang</strong>*, Zhiying Jiang*, Jinyuan Liu, Xin Fan, Risheng Liu†.
   <br>
 <em>IEEE Transactions on Instrumentation and Measurement (<font color=GoldenRod>TIM</font>)</em> [<font color=GoldenRod>J</font>], 2023 <br>
 <a href="https://ieeexplore.ieee.org/document/10363208">Paper</a>
@@ -369,7 +369,7 @@ nerfocus_stop()
     <papertitle_just>NeRFocus: Neural Radiance Field for 3D Synthetic Defocus</papertitle_just>     
   </a>
   <br>
-  Yinhuai Wang†, <strong>Shuzhou Yang</strong>†, Yujie Hu, Jian Zhang*.
+  Yinhuai Wang*, <strong>Shuzhou Yang</strong>*, Yujie Hu, Jian Zhang†.
   <br>
 <em>Computer Vision and Pattern Recognition Workshop (<font color=GoldenRod>CVPRW</font>)</em> [<font color=GoldenRod>C</font>], 2023 <br>
 <a href="https://arxiv.org/abs/2203.05189">arXiv</a>
