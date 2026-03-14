@@ -127,6 +127,41 @@ gencompositor_stop()
 <!-- ###################################################################################################-->
 
 <!-- ###################################################################################################-->
+<tr onmouseout="d4vd_stop()" onmouseover="d4vd_start()" >
+<td width="20%">
+<div class="one">
+<div class="two" id = '4dvd_image'><img src='./files/4dvd_after.gif'></div>
+<img src='./files/4dvd_before.gif'>
+</div>
+<script type="text/javascript">
+function d4vd_start() {
+document.getElementById('4dvd_image').style.opacity = "1";
+}
+function d4vd_stop() {
+document.getElementById('4dvd_image').style.opacity = "0";
+}
+d4vd_stop()
+</script>
+</td>
+<td valign="top" width="80%">
+  <a href="https://arxiv.org/abs/2508.04467">
+    <papertitle_just>4DVD: Cascaded Dense-view Video Diffusion Model for High-quality 4D Content Generation</papertitle_just>     
+  </a>
+  <br>
+  <strong>Shuzhou Yang</strong>, Xiaodong Cun, Xiaoyu Li*, Yaowei Li, Jian Zhang*.
+  <br>
+<em>International Journal of Computer Vision (<font color=GoldenRod>IJCV</font>)</em> [<font color=GoldenRod>J</font>], 2026 <br>
+<!-- <em>International Journal of Computer Vision (<font color=GoldenRod>IJCV</font>)</em> [<font color=GoldenRod>J</font>], 2026 <br> -->
+<a href="https://arxiv.org/abs/2508.04467">arXiv</a>
+|
+<a href="https://4dvd.github.io/">Project Page</a>
+<p></p>
+<p>Generating dense multi-view videos through cascaded diffusion model.</p>
+</td>
+</tr>
+<!-- ###################################################################################################-->
+
+<!-- ###################################################################################################-->
 <tr onmouseout="nvedit_stop()" onmouseover="nvedit_start()" >
 <td width="20%">
 <div class="one">
@@ -160,41 +195,6 @@ nvedit_stop()
 <a href="https://github.com/Ysz2022/NVEdit">Code<img src="https://img.shields.io/github/stars/Ysz2022/NVEdit?style=social&label=Stars"></a>
 <p></p>
 <p>Editing long videos coherently via neural video fields.</p>
-</td>
-</tr>
-<!-- ###################################################################################################-->
-
-<!-- ###################################################################################################-->
-<tr onmouseout="d4vd_stop()" onmouseover="d4vd_start()" >
-<td width="20%">
-<div class="one">
-<div class="two" id = '4dvd_image'><img src='./files/4dvd_after.gif'></div>
-<img src='./files/4dvd_before.gif'>
-</div>
-<script type="text/javascript">
-function d4vd_start() {
-document.getElementById('4dvd_image').style.opacity = "1";
-}
-function d4vd_stop() {
-document.getElementById('4dvd_image').style.opacity = "0";
-}
-d4vd_stop()
-</script>
-</td>
-<td valign="top" width="80%">
-  <a href="https://arxiv.org/abs/2508.04467">
-    <papertitle_just>4DVD: Cascaded Dense-view Video Diffusion Model for High-quality 4D Content Generation</papertitle_just>     
-  </a>
-  <br>
-  <strong>Shuzhou Yang</strong>, Xiaodong Cun, Xiaoyu Li*, Yaowei Li, Jian Zhang*.
-  <br>
-<em>International Journal of Computer Vision (<font color=GoldenRod>IJCV</font>)</em> [<font color=GoldenRod>J</font>], 2026 <br>
-<!-- <em>International Journal of Computer Vision (<font color=GoldenRod>IJCV</font>)</em> [<font color=GoldenRod>J</font>], 2026 <br> -->
-<a href="https://arxiv.org/abs/2508.04467">arXiv</a>
-|
-<a href="https://4dvd.github.io/">Project Page</a>
-<p></p>
-<p>Generating dense multi-view videos through cascaded diffusion model.</p>
 </td>
 </tr>
 <!-- ###################################################################################################-->
