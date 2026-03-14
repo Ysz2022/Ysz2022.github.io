@@ -85,7 +85,7 @@ Currently, I am a 4th-year Ph.D. student in Computer Science, School of Electron
 <!-- ################################  CONTENT START  ##################################################-->
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="10">
 <tbody>
-&ensp;Equal Contribution*, Corresponding Author†, Project Leader‡, [<font color=GoldenRod>J</font>] Journal, [<font color=GoldenRod>C</font>] Conference
+&ensp;Equal Contribution*, Corresponding Author†, Project Leader‡; [<font color=GoldenRod>J</font>] Journal, [<font color=GoldenRod>C</font>] Conference
 <!-- ###################################################################################################-->
 <tr onmouseout="gencompositor_stop()" onmouseover="gencompositor_start()" >
 <td width="20%">
