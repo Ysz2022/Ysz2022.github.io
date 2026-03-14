@@ -188,7 +188,7 @@ d4vd_stop()
   <br>
   <strong>Shuzhou Yang</strong>, Xiaodong Cun, Xiaoyu Li*, Yaowei Li, Jian Zhang*.
   <br>
-<em>Preprint</em>, 2025 <br>
+<em>International Journal of Computer Vision (<font color=GoldenRod>IJCV</font>)</em> [<font color=GoldenRod>J</font>], 2026 <br>
 <!-- <em>International Journal of Computer Vision (<font color=GoldenRod>IJCV</font>)</em> [<font color=GoldenRod>J</font>], 2026 <br> -->
 <a href="https://arxiv.org/abs/2508.04467">arXiv</a>
 |
