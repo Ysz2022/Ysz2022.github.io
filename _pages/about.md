@@ -386,15 +386,15 @@ nerfocus_stop()
 - <img src="/images/logo/tencent.png" alt="Tencent" width="85" height="20"> <img src="/images/logo/tencent_hunyuan.png" alt="Hunyuan Logo" width="19.842" height="19"> [Hunyuan](https://hunyuan.tencent.com/), Shenzhen, China
   - Mar'2026 - Present
   - Research Intern in Foundation Models
-  - Advisor: <a>Lucas</a>
+  - Mentors: <a>Lucas Wang</a> & <a>smurfsguo</a>
 - <img src="/images/logo/tencent.png" alt="Tencent" width="85" height="20"> <img src="/images/logo/tencent_arc_lab.png" alt="ARC Lab Logo" width="21.842" height="21"> [ARC Lab](https://arc.tencent.com/en/index), Shenzhen, China
   - Dec'2024 - Feb'2026
   - Research Intern in Video Editing and Generation
-  - Advisor: Dr. <a href="https://xiaoyu258.github.io/">Xiaoyu Li</a> & Prof. <a href="https://vinthony.github.io/academic/">Xiaodong Cun</a>
+  - Mentors: Dr. <a href="https://xiaoyu258.github.io/">Xiaoyu Li</a> & Prof. <a href="https://vinthony.github.io/academic/">Xiaodong Cun</a>
 - <img src="/images/logo/tencent.png" alt="Tencent" width="85" height="20"> <img src="/images/logo/tencent_ai_lab.png" alt="AI Lab Logo" width="19.842" height="19"> [AI Lab](https://ailab.tencent.com/ailab/en/index/), Shenzhen, China
   - Apr'2024 - Nov'2024
   - Research Intern in Novel View Video Generation
-  - Advisor: Prof. <a href="https://vinthony.github.io/academic/">Xiaodong Cun</a>
+  - Mentor: Prof. <a href="https://vinthony.github.io/academic/">Xiaodong Cun</a>
 
   
 # 💻 Academic Services
