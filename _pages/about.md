@@ -154,6 +154,8 @@ d4vd_stop()
 <!-- <em>International Journal of Computer Vision (<font color=GoldenRod>IJCV</font>)</em> [<font color=GoldenRod>J</font>], 2026 <br> -->
 <a href="https://arxiv.org/abs/2508.04467">arXiv</a>
 |
+<a href="https://link.springer.com/article/10.1007/s11263-026-02811-5">Paper</a>
+|
 <a href="https://4dvd.github.io/">Project Page</a>
 <p></p>
 <p>Generating dense multi-view videos through cascaded diffusion model.</p>
