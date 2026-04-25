@@ -190,6 +190,8 @@ nvedit_stop()
 <em>Computational Visual Media (<font color=GoldenRod>CVMJ</font>)</em> [<font color=GoldenRod>J</font>], 2025 <br>
 <a href="https://arxiv.org/abs/2312.08882">arXiv</a>
 |
+<a href="https://ieeexplore.ieee.org/abstract/document/11474768/">Paper</a>
+|
 <a href="https://nvedit.github.io/">Project Page</a>
 |
 <a href="https://mp.weixin.qq.com/s/ToWC_PAXwBPW0dkWrPB1MA">Social Media</a>
