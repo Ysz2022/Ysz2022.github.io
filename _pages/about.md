@@ -182,7 +182,7 @@ nvedit_stop()
 </td>
 <td valign="top" width="80%">
   <a href="https://arxiv.org/abs/2312.08882">
-    <papertitle_just>Neural Video Fields Editing</papertitle_just>     
+    <papertitle_just>Neural Video Field Editing</papertitle_just>     
   </a>
   <br>
   <strong>Shuzhou Yang</strong>, Chong Mou, Jiwen Yu, Yuhan Wang, Xiandong Meng, Jian Zhang†.
