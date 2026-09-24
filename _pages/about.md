@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am a 4th-year Ph.D. student in Computer Science, School of Electronic and Computer Engineering, <img src="/images/logo/PKU.png" alt="PKU" width="20.842" height="20"> Peking University, supervised by [Prof. Jian Zhang](https://jianzhang.tech/). Previously, I received my B.Eng degree of software engineering from <img src="/images/logo/DLUT.png" alt="DLUT" width="20.842" height="20"> Dalian University of Technology in 2022. I have led several interesting projects on video editing, novel view synthesis, and low-level vision, and have complished 10 papers as the first author, with over a thousand citations on Google Scholar. My main research interests include computer vision, diffusion models, and machine learning, primarily focusing on video-related Artificial Intelligence Generated Content (AIGC). Most recently, my main research topic is multimodal video generation. **I'm open to opportunities for research intern** and please feel free to get in touch via email: szyang AT stu DOT pku DOT edu DOT cn
+Currently, I am a 5th-year Ph.D. student in Computer Science, School of Electronic and Computer Engineering, <img src="/images/logo/PKU.png" alt="PKU" width="20.842" height="20"> Peking University, supervised by [Prof. Jian Zhang](https://jianzhang.tech/). Previously, I received my B.Eng degree of software engineering from <img src="/images/logo/DLUT.png" alt="DLUT" width="20.842" height="20"> Dalian University of Technology in 2022. I have led several interesting projects on video editing, novel view synthesis, and low-level vision, and have complished 10 papers as the first author, with over a thousand citations on Google Scholar. My main research interests include computer vision, diffusion models, and machine learning, primarily focusing on video-related Artificial Intelligence Generated Content (AIGC). Most recently, my main research topic is multimodal video generation. **I'm open to opportunities for research intern** and please feel free to get in touch via email: szyang AT stu DOT pku DOT edu DOT cn
 
 
 
@@ -404,13 +404,14 @@ nerfocus_stop()
 # 💻 Academic Services
 - Journal Reviewer:
   - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+  - ACM Transactions on Graphics (TOG)
   - International Journal of Computer Vision (IJCV)
   - IEEE Transactions on Image Processing (TIP)
   - IEEE Transactions on Multimedia (TMM)
   - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
   - ACM Transactions on Multimedia Computing, Communications and Applications (TOMM)
   - IEEE Journal of Selected Topics in Signal Processing (JSTSP)
-- Conference Reviewer: CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, Siggraph, AAAI, etc.
+- Conference Reviewer: CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, Siggraph, AAAI, ACM MM, etc.
 - Teaching assistant for computer vision course at School of Electronic and Computer Engineering, Peking University, 2023.
 
 
