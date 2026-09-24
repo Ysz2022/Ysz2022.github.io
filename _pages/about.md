@@ -414,10 +414,10 @@ nerfocus_stop()
 - Teaching assistant for computer vision course at School of Electronic and Computer Engineering, Peking University, 2023.
 
 
-# 🎖️ Selected Honors
-- [2026]The Second-order Scholarship at Peking University.
-- [2025] Peking University May Fourth Scholarship. 🏆️
-- [2023]The Third-order Scholarship at Peking University.
+# 🏆️ Selected Honors
+- [2026] The Second-order Scholarship at Peking University.
+- [2025] Peking University May Fourth Scholarship. 🎖️
+- [2023] The Third-order Scholarship at Peking University.
 - [2023-2026] Outstanding Student Award at Peking University.
 - [2019-2021] The First-order Excellent Scholarship at Dalian University of Technology.
 
