@@ -1,1 +1,3 @@
 scholarly
+# scholarly imports bibtexparser.bibdatabase, which bibtexparser 2.x removed
+bibtexparser<2
