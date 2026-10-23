@@ -82,6 +82,10 @@ I have led several interesting projects on video editing, novel view synthesis, 
     span.highlight {
         background-color: #ffffd0;
     }
+    /* one-line summary under each paper, half the default gap to the links above */
+    p.tldr {
+        margin-top: 8px;
+    }
 </style>
 <!-- ################################  CONTENT START  ##################################################-->
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="10">
@@ -115,8 +119,7 @@ univoe_stop()
 <a href="https://arxiv.org/abs/2610.31641">arXiv</a>
 |
 <a href="https://univoe.github.io/">Project Page</a>
-<p></p>
-<p>Removing and injecting video objects together with their interaction effects.</p>
+<p class="tldr">TL;DR: Removing and injecting video objects together with their interaction effects.</p>
 </td>
 </tr>
 <!-- ###################################################################################################-->
@@ -155,8 +158,7 @@ gencompositor_stop()
 <a href="https://mp.weixin.qq.com/s/WuLBrq5jEOusV20PXREYWA">Social Media</a>
 |
 <a href="https://github.com/TencentARC/GenCompositor">Code<img src="https://img.shields.io/github/stars/TencentARC/GenCompositor?style=social&label=Stars"></a>
-<p></p>
-<p>Adaptively compositing videos guided by user-specified trajectories and scales.</p>
+<p class="tldr">TL;DR: Adaptively compositing videos guided by user-specified trajectories and scales.</p>
 </td>
 </tr>
 <!-- ###################################################################################################-->
@@ -192,8 +194,7 @@ d4vd_stop()
 <a href="https://link.springer.com/article/10.1007/s11263-026-02811-5">Paper</a>
 |
 <a href="https://4dvd.github.io/">Project Page</a>
-<p></p>
-<p>Generating dense multi-view videos through cascaded diffusion model.</p>
+<p class="tldr">TL;DR: Generating dense multi-view videos through cascaded diffusion model.</p>
 </td>
 </tr>
 <!-- ###################################################################################################-->
@@ -232,8 +233,7 @@ nvedit_stop()
 <a href="https://mp.weixin.qq.com/s/ToWC_PAXwBPW0dkWrPB1MA">Social Media</a>
 |
 <a href="https://github.com/Ysz2022/NVEdit">Code<img src="https://img.shields.io/github/stars/Ysz2022/NVEdit?style=social&label=Stars"></a>
-<p></p>
-<p>Editing long videos coherently via neural video fields.</p>
+<p class="tldr">TL;DR: Editing long videos coherently via neural video fields.</p>
 </td>
 </tr>
 <!-- ###################################################################################################-->
@@ -272,8 +272,7 @@ fourier123_stop()
 <a href="https://mp.weixin.qq.com/s/YKnPYiXQ9vPCvSpP0HlfEQ">Social Media</a>
 |
 <a href="https://github.com/Ysz2022/Fourier123">Code<img src="https://img.shields.io/github/stars/Ysz2022/Fourier123?style=social&label=Stars"></a>
-<p></p>
-<p>Using both 2D and 3D diffusion models for image-to-3D generation with hybrid fourier score distillation.</p>
+<p class="tldr">TL;DR: Using both 2D and 3D diffusion models for image-to-3D generation with hybrid fourier score distillation.</p>
 </td>
 </tr>
 <!-- ###################################################################################################-->
@@ -308,8 +307,7 @@ difflle_stop()
 <a href="https://link.springer.com/article/10.1007/s11263-024-02292-4">Paper</a>
 |
 <a href="https://mp.weixin.qq.com/s/rhVQDkAYrdZTnk0AvXZw_Q">Social Media</a>
-<p></p>
-<p>Bridge the gap between real scenes and training data by diffusion model prior.</p>
+<p class="tldr">TL;DR: Bridge the gap between real scenes and training data by diffusion model prior.</p>
 </td>
 </tr>
 <!-- ###################################################################################################-->
@@ -346,8 +344,7 @@ nerco_stop()
 <a href="https://mp.weixin.qq.com/s/sxSGEikI8cwGPzOdjl40wg">Social Media</a>
 |
 <a href="https://github.com/Ysz2022/NeRCo">Code<img src="https://img.shields.io/github/stars/Ysz2022/NeRCo?style=social&label=Stars"></a>
-<p></p>
-<p>Normalize images by neural representation and enhance them based on CLIP prior.</p>
+<p class="tldr">TL;DR: Normalize images by neural representation and enhance them based on CLIP prior.</p>
 </td>
 </tr>
 <!-- ###################################################################################################-->
@@ -380,8 +377,7 @@ sepc_stop()
 <a href="https://ieeexplore.ieee.org/document/10363208">Paper</a>
 |
 <a href="https://github.com/Ysz2022/SEPC">Code</a>
-<p></p>
-<p>Restore image degradation through a multi-scale progressive network.</p>
+<p class="tldr">TL;DR: Restore image degradation through a multi-scale progressive network.</p>
 </td>
 </tr>
 <!-- ###################################################################################################-->
@@ -414,8 +410,7 @@ nerfocus_stop()
 <a href="https://arxiv.org/abs/2203.05189">arXiv</a>
 |
 <a href="https://github.com/wyhuai/NeRFocus">Code</a>
-<p></p>
-<p>Realize defocusing effect in 3D scenarios.</p>
+<p class="tldr">TL;DR: Realize defocusing effect in 3D scenarios.</p>
 </td>
 </tr>
 <!-- ###################################################################################################-->
