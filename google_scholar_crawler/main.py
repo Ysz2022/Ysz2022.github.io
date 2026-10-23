@@ -13,6 +13,9 @@ from datetime import datetime, timezone
 from scholarly import scholarly
 
 author_id = os.environ["GOOGLE_SCHOLAR_ID"]
+# fail fast when Google Scholar blocks the runner instead of retrying for hours
+scholarly.set_timeout(20)
+scholarly.set_retries(2)
 author = scholarly.search_author_id(author_id)
 scholarly.fill(author, sections=["basics", "indices"])
 citations = author.get("citedby")
