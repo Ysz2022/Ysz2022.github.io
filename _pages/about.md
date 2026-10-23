@@ -88,6 +88,40 @@ I have led several interesting projects on video editing, novel view synthesis, 
 <tbody>
 &ensp;Equal Contribution*, Corresponding Author†, Project Leader‡; [<font color=GoldenRod>J</font>] Journal, [<font color=GoldenRod>C</font>] Conference
 <!-- ###################################################################################################-->
+<tr onmouseout="univoe_stop()" onmouseover="univoe_start()" >
+<td width="20%">
+<div class="one">
+<div class="two" id = 'univoe_image'><img src='./files/univoe_after.gif'></div>
+<img src='./files/univoe_before.gif'>
+</div>
+<script type="text/javascript">
+function univoe_start() {
+document.getElementById('univoe_image').style.opacity = "1";
+}
+function univoe_stop() {
+document.getElementById('univoe_image').style.opacity = "0";
+}
+univoe_stop()
+</script>
+</td>
+<td valign="top" width="80%">
+  <a href="https://arxiv.org/abs/2610.31641">
+    <papertitle_just>UniVOE: A Removal-Driven Framework for Interaction-Aware Universal Video Object Editing</papertitle_just>     
+  </a>
+  <br>
+  <strong>Shuzhou Yang</strong>, Lanqing Guo‡, Lingen Li, Weiqi Li, Zhao Zhong, Liefeng Bo, Jian Zhang†.
+  <br>
+<em>arXiv preprint</em>, 2026 <br>
+<a href="https://arxiv.org/abs/2610.31641">arXiv</a>
+|
+<a href="https://univoe.github.io/">Project Page</a>
+<p></p>
+<p>Removing and injecting video objects together with their interaction effects.</p>
+</td>
+</tr>
+<!-- ###################################################################################################-->
+
+<!-- ###################################################################################################-->
 <tr onmouseout="gencompositor_stop()" onmouseover="gencompositor_start()" >
 <td width="20%">
 <div class="one">
