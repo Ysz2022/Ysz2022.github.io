@@ -84,7 +84,7 @@ I have led several interesting projects on video editing, novel view synthesis, 
     }
     /* one-line summary under each paper: ~6.6px below the links line */
     p.tldr {
-        margin-top: 3.6px;
+        margin-top: 3.5px;
     }
 </style>
 <!-- ################################  CONTENT START  ##################################################-->
